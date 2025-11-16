@@ -1,0 +1,573 @@
+Name,SalePrice,DateOfSale,Year,Mileage,Classification,Transmission,FuelType,Description,SaleLocation
+mercedes-benz a class (a180),20794.00,02/01/2024,2019,20714,hatchback,manual,petrol,grey mercedes-benz a class. a180 se 5dr 1.3,offaly
+mercedes-benz c class (amg sport),7350.00,2024-01-02,2013,102695,saloon,automatic,diesel,red mercedes-benz c class. 2.1 c220 cdi blueefficiency amg sport g-tronic+ euro 5 (s/s) 4dr. 3 previous owners,wexford
+mercedes-benz a class (amg line edition),34687.00,2024-01-03,2022,1125,saloon,automatic,diesel,red mercedes-benz a class. a 200 d amg line edition premium plus 2.0 4dr. 1 previous owner,dublin
+mercedes-benz c class (bluetec),12495.00,04/01/2024,2014,85907,saloon,manual,diesel,blue mercedes-benz c class. c220 bluetec sport 4dr 2.1,leitrim
+mercedes-benz a class (a180),22690.00,2024-01-05,2019,27201,hatchback,automatic,petrol,black mercedes-benz a class. a180 sport executive 5dr auto 1.3. 1 previous owner,dublin
+mercedes-benz gle class (gle300d),52288.00,2024-01-05,2020,21002,suv,automatic,diesel,blue mercedes-benz gle. gle 300d 4matic amg line prem + 5dr 9g-tron [7 st] 2.0,wexford
+mercedes-benz clk (clk500),7354.00,2024-01-08,2008,96251,convertible,automatic,petrol,mercedes-benz clk. 5.5 clk500 sport cabriolet 2dr. 5 previous owners,dublin
+mercedes-benz a class (a200),26897.00,08/01/2024,2019,34131,hatchback,automatic,petrol,red mercedes-benz a-class. a 200 amg line hatchback 1.3 5dr,laois
+mercedes-benz c class (amg sport),9435.00,2024-01-10,2013,67115,saloon,automatic,diesel,navy mercedes-benz c class. 3.0 c350 cdi v6 amg sport saloon 4dr diesel g-tronic+ euro 5 (s/s) (265 ps). 4 previous owners,kildare
+mercedes-benz a class (amg line),16737.00,12/01/2024,2017,50085,hatchback,auto,petrol,mercedes-benz a class. 1.6 a160 amg line 7g-dct (s/s) 5dr. 2 previous owners,cork
+mercedes-benz slk (blueefficiency),13145.00,2024-01-13,2011,28186,convertible,automatic,petrol,mercedes-benz slk. 1.8 slk250 blueefficiency g-tronic+ euro 5 (s/s) 2dr. 3 previous owners,louth
+mercedes-benz e class (e43 v6),36259.00,14/01/2024,2018,42833,saloon,automatic,petrol,blue mercedes-benz e class. 3.0 e43 v6 amg (premium plus) saloon 4dr petrol g-tronic+ 4matic euro 6 (s/s) (401 ps). 2 previous owners,dublin
+mercedes-benz e class (bluetec),15115,2024-01-15,2015,60490,convertible,auto,diesel,grey mercedes-benz e class. 2.1 e220 bluetec amg line cabriolet 2dr diesel g-tronic+ euro 6 (s/s) (177 ps). 1 previous owner,donegal
+mercedes-benz e class (e220d),22319.00,16/01/2024,2016,37276,saloon,automatic,diesel,mercedes-benz e class. e220d se 4dr 9g-tronic 2.0,dublin
+mercedes-benz gls class (amg line),79330.00,17/01/2024,2020,19647,suv,automatic,diesel,mercedes-benz gls. gls 400d 4matic amg line premium 5dr 9g-tronic 2.9. 2 previous owners,dublin
+mercedes-benz glc class (glc300),42861.00,18/01/2024,2020,21148,coupe,automatic,petrol,silver mercedes-benz glc coupe. glc 300 4matic amg line premium 5dr 9g-tronic 2.0,cork
+mercedes-benz e class (blueefficiency),10700.00,18/01/2024,2013,63154,saloon,automatic,diesel,blue mercedes-benz e class. 2.1 e250 cdi blueefficiency sport g-tronic+ euro 5 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz c class (blueefficiency),11130.00,2024-01-19,2013,47780,saloon,automatic,diesel,navy mercedes-benz c-class. 2.1 c250 cdi blueefficiency amg sport 4d 202 bhp half leather|auto,dublin
+mercedes-benz e class (amg line edition),19706.00,19/01/2024,2016,29643,convertible,automatic,diesel,silver mercedes-benz e class. 3.0 e350d v6 amg line edition cabriolet 2dr diesel g-tronic+ euro 6 (s/s) (258 ps). 1 previous owner,kildare
+mercedes-benz c class (c220),15140.00,2024-01-20,2014,41702,saloon,automatic,diesel,mercedes-benz c class. 2.1 c220 bluetec sport g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,kildare
+mercedes-benz cla class (cla35),44401.00,21/01/2024,2020,33266,saloon,automatic,petrol,navy mercedes-benz cla class. 2.0 cla35 amg (premium plus) coupe 7g-dct 4matic euro 6 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz e class (sport),9610.00,23/01/2024,2010,49427,saloon,automatic,diesel,grey mercedes-benz e-class. e250 cdi amg sport blueefficiency 2.1 4d 204 bhp mercedes specialist,cork
+mercedes-benz a class (amg sport),12358.00,24/01/2024,2015,70202,hatchback,manual,diesel,black mercedes-benz a-class. 2.1 a200 cdi amg sport 5d 136 bhp \xa330 road tax+nav+rear camera+euro 6,dublin
+mercedes-benz e class (e350d v6),18465.00,24/01/2024,2015,34394,coupe,auto,diesel,navy mercedes-benz e class. e350 bluetec amg line auto 3.0 2dr. 2 previous owners,clare
+mercedes-benz c class (sport),8551.00,2024-01-24,2011,72155,saloon,automatic,diesel,silver mercedes-benz c class. 2.1 c220 cdi blueefficiency sport g-tronic+ euro 5 (s/s) 4dr. 3 previous owners,cork
+mercedes-benz a class (sport),20664,2024-01-25,2018,32926,hatchback,automatic,diesel,blue mercedes-benz a-class. *virtual cockpit *1.5 a 180 d sport executive 5d 114 bhp ***virtual cockpit - lane assist***,dublin
+mercedes-benz c class (mhev eq boost),27160,25/01/2024,2019,26568,estate,automatic,petrol,blue mercedes-benz c class. c200 amg line premium 5dr 9g-tronic 1.5. 3 previous owners,galway
+mercedes-benz cla class (cla180),33393.00,25/01/2024,2021,13849,estate,automatic,petrol,red mercedes-benz cla class. cla 180 amg line 5dr tip auto 1.3,cork
+mercedes-benz e class (e400d),39876.00,25/01/2024,2020,30134,coupe,automatic,diesel,grey mercedes-benz e class. 3.0 e400d amg line (premium plus) g-tronic+ 4matic euro 6 (s/s) 2dr,galway
+mercedes-benz gle class (sport),21865.00,2024-01-26,2016,85181,suv,automatic,diesel,mercedes-benz gle class. 2.1 gle250d sport g-tronic 4matic euro 6 (s/s) 5dr. 2 previous owners,louth
+mercedes-benz a class (sport),13776.00,26/01/2024,2016,58038,hatchback,manual,diesel,black mercedes-benz a class. a180d sport executive 5dr 1.5. 2 previous owners,waterford
+mercedes-benz c class (sport),5488.00,27/01/2024,2008,96363,saloon,manual,petrol,red mercedes-benz c class. 1.6 c180k blueefficiency sport 4dr. 2 previous owners,galway
+mercedes-benz c class (blueefficiency),8515.00,28/01/2024,2012,97133,coupe,automatic,petrol,mercedes-benz c class. 1.8 c180 blueefficiency amg sport g-tronic+ euro 5 (s/s) 2dr,kilkenny
+mercedes-benz a class (a180),19926.00,2024-01-28,2018,16848,hatchback,manual,petrol,black mercedes-benz a class. 1.3 a180 amg line euro 6 (s/s) 5dr. 1 previous owner,dublin
+mercedes-benz glc class (amg line),27425.00,2024-01-28,2017,18474,suv,automatic,diesel,black mercedes-benz glc. glc 220d 4matic amg line 5dr 9g-tronic 2.1. 2 previous owners,dublin
+mercedes-benz e class (avantgarde),5809.00,2024-01-29,2009,80130,saloon,automatic,diesel,black mercedes-benz e class. 3.0 e320 cdi avantgarde g-tronic 4dr,donegal
+mercedes-benz a class (a200d),12141.00,01/02/2024,2016,59730,hatchback,manual,diesel,mercedes-benz a class. 2.1 a200d sport euro 6 (s/s) 5dr,cork
+mercedes-benz cla class (sport),18293.00,2024-02-02,2018,44551,saloon,automatic,petrol,navy mercedes-benz cla class. 1.6 cla180 sport coupe 7g-dct euro 6 (s/s) 4dr. 1 previous owner,kildare
+mercedes-benz glc class (glc250),30657.00,03/02/2024,2019,30818,suv,automatic,petrol,red mercedes-benz glc class. 2l amg night edition glc250 5dr,offaly
+mercedes-benz e class (e400d),48110.00,03/02/2024,2020,16736,coupe,automatic,diesel,mercedes-benz e class. e400d 4matic amg line premium plus 2dr 9g-tronic 2.9. 1 previous owner,dublin
+mercedes-benz a class (a180d),22555.00,2024-02-04,2019,29953,saloon,automatic,diesel,blue mercedes-benz a class. 1.5 a180d sport 7g-dct euro 6 (s/s) 4dr. 2 previous owners,galway
+mercedes-benz a class (a180),19346.00,04/02/2024,2016,15667,hatchback,automatic,petrol,blue mercedes-benz a class. 1.6 a180 amg line (premium) 7g-dct euro 6 (s/s) 5dr. 2 previous owners,cork
+mercedes-benz a class (amg sport),10489.00,05/02/2024,2014,69292,hatchback,automatic,diesel,black mercedes-benz a class. 1.8 a200 cdi amg sport hatchback 5dr diesel 7g-dct euro 5 (s/s) (136 ps). 3 previous owners,kildare
+mercedes-benz c class (c220d),23939.00,2024-02-06,2018,45910,saloon,automatic,diesel,blue mercedes-benz c class. 2.0 c220d amg line (premium) g-tronic+ euro 6 (s/s) 4dr. 1 previous owner,dublin
+mercedes-benz a class (amg line),19684.00,06/02/2024,2018,34685,hatchback,automatic,diesel,black mercedes-benz a class. 2.1 a200d amg line (premium) hatchback 5dr diesel 7g-dct euro 6 (s/s) (136,galway
+mercedes-benz a class (blueefficiency),3811.00,07/02/2024,2010,78554,hatchback,manual,petrol,black mercedes-benz a class. 1.5 a160 blueefficiency avantgarde se 5dr,dublin
+mercedes-benz e class (e220d),19275.00,07/02/2024,2016,57309,convertible,auto,diesel,blue mercedes-benz e-class. 2.1 e 220 d amg line edition 2d 174 bhp,cavan
+mercedes-benz a class (a220d),16121.00,07/02/2024,2016,68111,hatchback,automatic,diesel,blue mercedes-benz a class. 2.1 a220d amg line 7g-dct euro 6 (s/s) 5dr,dublin
+mercedes-benz e class (sport),9405.00,08/02/2024,2011,87598,coupe,automatic,diesel,black mercedes-benz e class. 3.0 e350 cdi v6 blueefficiency sport g-tronic euro 5 2dr. 3 previous owners,dublin
+mercedes-benz cla class (sport),15066.00,08/02/2024,2017,72342,estate,automatic,diesel,red mercedes-benz cla class. 2.1 cla220d sport shooting brake 7g-dct euro 6 (s/s) 5dr. 2 previous owners,cork
+mercedes-benz c class (blueefficiency),7133,08/02/2024,2012,100178,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c250 cdi blueefficiency amg sport g-tronic+ euro 5 (s/s) 4dr. 4 previous owners,cork
+mercedes-benz a class (a200),28637.00,08/02/2024,2019,24339,hatchback,automatic,petrol,grey mercedes-benz a class. 1.3l amg line a200 5dr,limerick
+mercedes-benz c class (c220d),14688.00,10/02/2024,2014,91465,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c220d amg line (premium plus) 7g-tronic+ euro 6 (s/s) 4dr. 3 previous owners,dublin
+mercedes-benz eqa (amg line),50060.00,10/02/2024,2021,8923,suv,automatic,electric,black mercedes-benz eqa. eqa 250 140kw amg line 66.5kwh 5dr auto. 2 previous owners,wicklow
+mercedes-benz gla class (gla200 cdi),14091.00,13/02/2024,2014,61408,suv,manual,diesel,silver mercedes-benz gla class. 2.1 gla200 cdi amg line suv 5dr diesel manual euro 6 (s/s) (136 ps). 4 previous owners,dublin
+mercedes-benz e class (mhev),63081.00,13/02/2024,2021,22732,convertible,automatic,petrol hybrid,blue mercedes-benz e class. 3l amg mhev e53h biturbo 2dr,cavan
+mercedes-benz glc class (amg line),42313,14/02/2024,2018,16836,coupe,automatic,petrol,blue mercedes-benz glc coupe. glc 250 4matic amg line premium plus 5dr 9g-tronic 2.0,cork
+mercedes-benz a class (a200),24896.00,2024-02-15,2019,25625,saloon,automatic,petrol,red mercedes-benz a class. a200 amg line 4dr auto 1.3,dublin
+mercedes-benz e class (e53 biturbo),37761.00,15/02/2024,2019,68442,estate,automatic,petrol,blue mercedes-benz e-class. 3.0 amg e 53 4matic premium plus 5d 430 bhp. 2 previous owners,dublin
+mercedes-benz c class (c220 cdi),2365,2024-02-16,2008,133245,coupe,automatic,diesel,silver mercedes-benz c class. c220 cdi sport edition 2.1 2dr,mayo
+mercedes-benz a class (a35),36326.00,2024-02-16,2019,10022,hatchback,automatic,petrol,black mercedes-benz a class. a35 4matic premium plus 5dr auto 2.0,kilkenny
+mercedes-benz c class (c180),12862.00,16/02/2024,2013,46364,estate,automatic,petrol,blue mercedes-benz c class. 1.6 c180 executive se g-tronic+ euro 6 (s/s) 5dr,sligo
+mercedes-benz e class (amg line night edition),43420.00,2024-02-17,2021,33888,estate,automatic,diesel,black mercedes-benz e class. e220d amg line night edition prem+ 5dr 9g-tronic 2.0,monaghan
+mercedes-benz cla class (sport),16440.00,2024-02-17,2017,21383,estate,manual,petrol,red mercedes-benz cla. 1.6 cla 180 sport 5d 121 bhp. 2 previous owners,galway
+mercedes-benz cls (amg s),35114.00,17/02/2024,2015,50430,saloon,automatic,petrol,red mercedes-benz cls. 5.5 cls63 v8 amg s coupe spds mct euro 6 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz c class (blueefficiency),7679.00,17/02/2024,2013,95936,coupe,manual,diesel,silver mercedes-benz c class. c220 cdi blueefficiency amg sport 2.1 2dr,donegal
+mercedes-benz e class (amg sport),9765.00,18/02/2024,2013,98448,saloon,automatic,diesel,silver mercedes-benz e class. 3.0 e350 v6 bluetec amg sport g-tronic+ euro 6 (s/s) 4dr. 1 previous owner,dublin
+mercedes-benz glb class (amg line),50392,20/02/2024,2022,3214,suv,automatic,petrol,navy mercedes-benz glb. 200 amg line premium 5dr 7g-tronic petrol estate 1.3,tipperary
+mercedes-benz cla class (cla180),17888.00,21/02/2024,2018,65134,saloon,manual,petrol,"blue mercedes-benz cla. 1.6 cla 180 amg line 4d 121 bhp \xa31,455 upgraded extras, 8in garmin satellite navigation display, reverse camera / parking sensors, apple carplay / an",louth
+mercedes-benz c class (c63 v8 biturbo),43115,2024-02-22,2017,15328,coupe,automatic,petrol,black mercedes-benz c class amg coupe. c63 2dr auto 4.0. 2 previous owners,cavan
+mercedes-benz sl class (amg sport),28255.00,22/02/2024,2016,50994,convertible,automatic,petrol,red mercedes-benz sl. 3.0 sl400 amg sport 2d 329 bhp,dublin
+mercedes-benz slk (slk250 cdi),11433.00,24/02/2024,2012,77375,convertible,automatic,diesel,silver mercedes-benz slk. 2.1 slk250 cdi blueefficiency amg sport g-tronic+ euro 5 (s/s) 2dr,louth
+mercedes-benz c class (sport),10128.00,25/02/2024,2012,60065,saloon,automatic,petrol,blue mercedes-benz c class. 1.8 c180 blueefficiency sport g-tronic+ euro 5 (s/s) 4dr. 2 previous owners,louth
+mercedes-benz e class (amg night edition),16748.00,2024-02-25,2015,40260,saloon,automatic,diesel,navy mercedes-benz e-class. 2.1l e220 bluetec amg night edition premium 4d auto 174 bhp ** mega spec ** pan roof **,dublin
+mercedes-benz e class (amg line),27207.00,26/02/2024,2018,43645,saloon,automatic,diesel,blue mercedes-benz e220. d 4matic amg line premium used cars 2.0 4dr. 2 previous owners,offaly
+mercedes-benz m class (blueefficiency),12770.00,27/02/2024,2011,55034,s.u.v.,auto,diesel,grey mercedes-benz m class. 3.0 ml350 cdi v6 blueefficiency sport 4wd 5dr. 3 previous owners,galway
+mercedes-benz e class (e220d),21279.00,28/02/2024,2018,60194,coupe,automatic,diesel,red mercedes-benz e class. 2.0 e220d amg line g-tronic+ euro 6 (s/s) 2dr,wicklow
+mercedes-benz e class (sport),8839.00,28/02/2024,2010,37443,saloon,automatic,diesel,mercedes-benz e class. 2.1 e250 cdi blueefficiency sport saloon 4dr diesel tiptronic euro 5 (204 ps). 1 previous owner,kildare
+mercedes-benz e class (amg sport),10640.00,28/02/2024,2014,103260,saloon,automatic,diesel,grey mercedes-benz e-class. 2.1 e250 cdi amg sport 4d 202 bhp service history*leather*auto*2 keys,waterford
+mercedes-benz cla class (amg line edition),18573.00,28/02/2024,2019,42109,saloon,manual,petrol,red mercedes-benz cla class. cla 180 amg line edition 4dr 1.6. 2 previous owners,kerry
+mercedes-benz c class (c250),14817.00,29/02/2024,2014,45114,saloon,automatic,diesel,blue mercedes-benz c class. 2.1 c250 bluetec amg line g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,donegal
+mercedes-benz c class (sport),16642.00,29/02/2024,2017,44006,saloon,automatic,diesel,silver mercedes-benz c class. c250d sport 4dr auto 2.1,dublin
+mercedes-benz c class (sport),6602.00,29/02/2024,2008,74926,saloon,automatic,diesel,black mercedes-benz c-class. 2.1 c220 cdi sport auto 170 bhp genuine px bargain! 4dr,westmeath
+mercedes-benz a class (a180d),19878,29/02/2024,2019,33310,hatchback,automatic,diesel,blue mercedes-benz a class. a180d sport 5dr auto 1.5. 3 previous owners,donegal
+mercedes-benz e class (amg line),29086.00,01/03/2024,2019,36346,saloon,automatic,diesel,red mercedes-benz e class. 2l amg line e220d 4dr,cork
+mercedes-benz c class (c200),26018.00,2024-03-01,2019,34929,coupe,automatic,petrol,mercedes-benz c-class. 1.5 c 200 amg line 2d 181 bhp,waterford
+mercedes-benz a class (a160),16270.00,01/03/2024,2018,28488,hatchback,manual,petrol,silver mercedes-benz a class. 1.6 a160 amg line hatchback 5dr petrol manual euro 6 (s/s) (102 ps). 1 previous owner,kildare
+mercedes-benz e class (e350d v6),16640,02/03/2024,2015,41482,coupe,automatic,diesel,blue mercedes-benz e class. 3.0 e350d v6 bluetec amg line g-tronic+ euro 6 (s/s) 2dr. 3 previous owners,mayo
+mercedes-benz m class (ml350 v6),16701,02/03/2024,2014,70633,suv,automatic,diesel,blue mercedes-benz m class. 3.0 ml350 v6 bluetec amg sport g-tronic 4wd euro 6 (s/s) 5dr,longford
+mercedes-benz gla class (gla180),22221.00,03/03/2024,2019,24126,suv,automatic,petrol,red mercedes-benz gla. gla 180 urban edition 5dr auto 1.6. 1 previous owner,longford
+mercedes-benz gle class (gle300d),54796.00,04/03/2024,2021,16901,suv,automatic,diesel,grey mercedes-benz gle. 300d 4matic amg line prem 5dr 9g-tronic [7 st] 2.0. 1 previous owner,cork
+mercedes-benz cla class (sport),14450.00,04/03/2024,2015,68203,estate,automatic,diesel,red mercedes-benz cla class. 2.1 cla200d sport shooting brake 7g-dct euro 6 (s/s) 5dr. 2 previous owners,monaghan
+mercedes-benz c class (c63 v8),45120,06/03/2024,2012,59097,coupe,automatic,petrol,red mercedes-benz c class. 6.3 c63 v8 amg edition 125 spds mct euro 5 2dr,donegal
+mercedes-benz amg gt 63 (s),108258.00,06/03/2024,2020,11365,coupe,automatic,petrol,blue mercedes-benz amg gt 63. 4.0 63 v8 biturbo s (premium) spds mct 4matic+ euro 6 (s/s) 4dr,dublin
+mercedes-benz c class (c180),11856,08/03/2024,2013,60937,saloon,automatic,petrol,red mercedes-benz c class. 1.6 c180 blueefficiency amg sport plus g-tronic+ euro 5 (s/s) 4dr. 2 previous owners,cork
+mercedes-benz e class (e220 cdi),5709.00,10/03/2024,2011,107287,saloon,auto,diesel,black mercedes-benz e class. 2.1 e220 cdi blueefficiency executive se g-tronic+ euro 5 (s/s) 4dr,cork
+mercedes-benz c class (c220d),16427.00,10/03/2024,2014,47219,saloon,automatic,diesel,red mercedes-benz c-class. 2.1 c220 bluetec sport premium plus 4d auto 170 bhp ulez | reversing camera | leather,louth
+mercedes-benz slk (slk250 cdi),14359.00,11/03/2024,2014,34669,convertible,automatic,diesel,navy mercedes-benz slk. slk 250 amg sport 2dr tip auto 2.1. 1 previous owner,dublin
+mercedes-benz gla class (gla200),22213.00,11/03/2024,2017,30853,suv,automatic,petrol,grey mercedes-benz gla. gla 200 amg line executive 5dr auto 1.6. 2 previous owners,sligo
+mercedes-benz e class (bluetec),15396,13/03/2024,2016,84282,saloon,automatic,diesel,blue mercedes-benz e class. 2.1 e220 bluetec amg night edition (premium) g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz cla class (sport),10986.00,13/03/2024,2015,125415,saloon,automatic,diesel,silver mercedes-benz cla class. 2.1 cla220 cdi sport coupe 7g-dct euro 6 (s/s) 4dr. 3 previous owners,cork
+mercedes-benz c class (c300),24414.00,14/03/2024,2017,40319,coupe,automatic,petrol,grey mercedes-benz c-class. 2.0 c 300 amg line premium+ auto 2dr. 1 previous owner,dublin
+mercedes-benz glc class (amg line),26175.00,16/03/2024,2016,50279,suv,automatic,diesel,grey mercedes-benz glc. 250d amg line premium 5dr auto 2.1,cork
+mercedes-benz glc class (glc220d),33852.00,2024-03-18,2019,24468,suv,automatic,diesel,blue mercedes-benz glc class. 2.0 glc220d amg line g-tronic+ 4matic euro 6 (s/s) 5dr. 1 previous owner,dublin
+mercedes-benz c class (amg line edition),32451.00,19/03/2024,2021,12727,coupe,automatic,diesel,red mercedes-benz c-class. c 220 d coupe 2.0 2dr,meath
+mercedes-benz e class (amg line),28325.00,20/03/2024,2018,44292,convertible,auto,diesel,black mercedes-benz e220. 2.0 d amg line,kildare
+mercedes-benz e class (e220d),18407.00,20/03/2024,2016,97375,saloon,automatic,diesel,blue mercedes-benz e class. 2.0 e220d amg line (premium) g-tronic+ euro 6 (s/s) 4dr. 4 previous owners,cork
+mercedes-benz c class (c220 cdi),6476.00,21/03/2024,2011,101153,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c220 cdi blueefficiency se edition 125 g-tronic+ euro 5 (s/s) 4dr. 3 previous owners,roscommon
+mercedes-benz a class (a180d),21306.00,21/03/2024,2018,19695,hatchback,automatic,diesel,black mercedes-benz a-class. 1.5 a 180 d amg line 5d 114 bhp ***great finance available***. 2 previous owners,cork
+mercedes-benz gla class (amg line),21448.00,22/03/2024,2018,24263,suv,automatic,diesel,blue mercedes-benz gla class. gla 200d amg line 5dr auto 2.1,mayo
+mercedes-benz e class (blueefficiency),8349.00,22/03/2024,2009,97799,coupe,automatic,petrol,blue mercedes-benz e class. 1.8 e250 cgi blueefficiency sport auto 2dr,waterford
+mercedes-benz gla class (gla200),23264.00,22/03/2024,2018,28281,suv,automatic,petrol,black mercedes-benz gla. gla 200 amg line 5dr auto bluetooth 1.6,cork
+mercedes-benz c class (executive se),4834,22/03/2024,2012,144286,saloon,automatic,diesel,blue mercedes-benz c class. 2.1 c220 cdi blueefficiency executive se g-tronic+ euro 5 (s/s) 4dr. 6 previous owners,clare
+mercedes-benz a class (a200),22322.00,22/03/2024,2020,28732,hatchback,manual,petrol,black mercedes-benz a class. 1.3 a200 amg line (executive) euro 6 (s/s) 5dr. 1 previous owner,cork
+mercedes-benz c class (amg line),16116.00,23/03/2024,2016,55768,saloon,automatic,diesel,silver mercedes-benz c class. c220d amg line auto 2.1 4dr,monaghan
+mercedes-benz gle class (gle53h biturbo),93359.00,2024-03-23,2022,2075,coupe,automatic,petrol hybrid,silver mercedes-benz gle coupe. gle 53 4matic+ premium plus 5dr tct 3.0. 1 previous owner,dublin
+mercedes-benz m class (ml250),16474.00,2024-03-24,2014,68297,suv,automatic,diesel,red mercedes-benz m class. 2.1 ml250 bluetec amg sport g-tronic 4wd euro 6 (s/s) 5dr. 3 previous owners,dublin
+mercedes-benz gle class (amg line),27394.00,2024-03-24,2016,59594,suv,automatic,diesel,red mercedes-benz gle-class. gle 250 d 4matic amg line premium 2.1 5dr,cork
+mercedes-benz slc (amg line),21667.00,2024-03-24,2017,26025,convertible,automatic,diesel,red mercedes-benz slc. 2.1 slc250d amg line g-tronic euro 6 (s/s) 2dr,meath
+mercedes-benz a class (a180d),16026.00,2024-03-25,2016,47983,hatchback,automatic,diesel,silver mercedes-benz a-class. 1.5 a 180 d amg line premium 5d 107 bhp,dublin
+mercedes-benz c class (bluetec),11147.00,26/03/2024,2015,90204,estat,manual,diesel,mercedes-benz c-class. 2.1 c220 bluetec sport 5d 170 bhp + sat nav + leather + history + 6% finance available* + delivery,waterford
+mercedes-benz e class (blueefficiency),8456.00,27/03/2024,2012,97335,saloon,automatic,diesel,blue mercedes-benz e class. 2.1 e220 cdi blueefficiency se g-tronic+ euro 5 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz c class (sport),7490.00,27/03/2024,2010,85104,saloon,automatic,diesel,silver mercedes-benz c class. 3.0 c350 cdi v6 blueefficiency sport saloon 4dr diesel auto euro 5 (231 ps). 4 previous owners,donegal
+mercedes-benz a class (a160),5993.00,28/03/2024,2010,45231,hatchback,manual,petrol,black mercedes-benz a class. 1.5 a160 blueefficiency elegance se 5dr. 2 previous owners,dublin
+mercedes-benz gla class (amg line),15910.00,28/03/2024,2014,64377,suv,automatic,diesel,navy mercedes-benz gla class. 2.1 gla220 cdi amg line 7g-dct 4matic euro 6 (s/s) 5dr,dublin
+mercedes-benz e class (e220 cdi),13090.00,29/03/2024,2013,66215,convertible,automatic,diesel,grey mercedes-benz e class. 2.1 e220 cdi se cabriolet g-tronic+ euro 5 (s/s) 2dr. 4 previous owners,meath
+mercedes-benz clc class (clc180k),4956.00,30/03/2024,2010,76341,hatchback,manual,petrol,mercedes-benz clc class. 1.8 clc180k sport coupe euro 4 3dr,limerick
+mercedes-benz gla class (gla220d),19770.00,31/03/2024,2017,54917,suv,automatic,diesel,mercedes-benz gla diesel hatchback. gla 220d 4matic amg line 5dr auto [premium] 2.1. 2 previous owners,dublin
+mercedes-benz m class (sport),8003.00,2024-03-31,2009,77482,s.u.v.,automatic,diesel,navy mercedes-benz m class. 3.0 ml320 cdi v6 sport suv 5dr diesel tiptronic 4wd euro 4 (224 ps). 4 previous owners,dublin
+mercedes-benz slk (slk250 cdi),10160.00,31/03/2024,2014,96142,convertible,automatic,diesel,silver mercedes-benz slk. 2.1 slk250 cdi blueefficiency amg sport 2dr 204 bhp *** sat nav - full leather ***,dublin
+mercedes-benz e class (blueefficiency),8197.00,02/04/2024,2013,95816,coupe,automatic,diesel,mercedes-benz e class. 2.1 e220 cdi blueefficiency sport g-tronic 2dr. 5 previous owners,dublin
+mercedes-benz a class (a160),6765.00,02/04/2024,2011,49878,hatchback,automatic,petrol,black mercedes-benz a class. 1.5 a160 avantgarde se cvt 5dr. 1 previous owner,donegal
+mercedes-benz e class (se),27187.00,02/04/2024,2018,28399,saloon,automatic,diesel,silver mercedes-benz e class. 2.0 e220d se g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,donegal
+mercedes-benz gla class (gla200d),20249.00,04/04/2024,2018,38055,s.u.v.,automatic,diesel,black mercedes-benz gla class. 2.1 gla200d sport (premium) suv 5dr diesel 7g-dct euro 6 (s/s) (136 ps). 1 previous owner,waterford
+mercedes-benz e class (e250),11139.00,04/04/2024,2011,55020,estate,automatic,petrol,navy mercedes-benz e class. 1.8 e250 blueefficiency sport g-tronic+ 5dr,dublin
+mercedes-benz a class (se),10165.00,05/04/2024,2016,36335,hatchback,automatic,petrol,red mercedes-benz a class. 1.6 a160 se (executive) hatchback 5dr petrol 7g-dct euro 6 (s/s) (102 ps). 4 previous owners,kerry
+mercedes-benz a class (a180d),13198.00,05/04/2024,2016,54816,hatchback,manual,diesel,red mercedes-benz a class. a180d sport premium 5dr 1.5,leitrim
+mercedes-benz gla class (urban edition),24081.00,05/04/2024,2019,24813,suv,automatic,petrol,red mercedes-benz gla-class. 1.6 gla 180 urban edition 5d 121 bhp. 2 previous owners,dublin
+mercedes-benz slk (amg sport),11189,05/04/2024,2012,75055,convertible,automatic,petrol,silver mercedes-benz slk. 1.8 slk200 blueefficiency amg sport 2d 184 bhp stunning car inside and out,dublin
+mercedes-benz gla class (gla220 cdi),14198.00,06/04/2024,2015,88263,suv,automatic,diesel,mercedes-benz gla class. 2.1 gla220 cdi sport 7g-dct 4matic euro 6 (s/s) 5dr. 4 previous owners,meath
+mercedes-benz e class (e220d),21480.00,2024-04-07,2018,87205,saloon,automatic,diesel,red mercedes-benz e-class. 2.0 e 220 d se premium 4d 192 bhp,kildare
+mercedes-benz c class (amg line),20667.00,07/04/2024,2016,50661,coupe,auto,diesel,black mercedes-benz c class. 2.1 c220d amg line g-tronic+ euro 6 (s/s) 2dr,cork
+mercedes-benz gle class (amg s),52450.00,09/04/2024,2018,32140,suv,automatic,petrol,blue mercedes-benz gle class. 5.5 gle63 v8 amg s (premium) spds+7gt 4matic euro 6 (s/s) 5dr. 1 previous owner,wexford
+mercedes-benz gla class (gla200d),20292.00,09/04/2024,2018,17243,suv,automatic,diesel,mercedes-benz gla class. 2.1 gla200d se 7g-dct euro 6 (s/s) 5dr. 1 previous owner,dublin
+mercedes-benz e class (sport),9778.00,10/04/2024,2012,71111,saloon,automatic,diesel,mercedes-benz e class. e250 cdi blueefficiency sport 2.1 4dr,kildare
+mercedes-benz a class (sport),8662.00,12/04/2024,2013,88034,hatchback,manual,diesel,grey mercedes-benz a class. 1.8 a200 cdi sport 5dr,galway
+mercedes-benz a class (amg line edition),39364.00,12/04/2024,2022,8671,hatchback,automatic,petrol,grey mercedes-benz a class. a200 amg line premium plus edition 5dr auto 1.3. 1 previous owner,tipperary
+mercedes-benz c class (amg sport),10426.00,12/04/2024,2013,72149,saloon,automatic,petrol,black mercedes-benz c class. 1.6 c180 amg sport g-tronic+ euro 6 (s/s) 4dr. 4 previous owners,dublin
+mercedes-benz a class (a220),27237.00,2024-04-13,2019,11806,hatchback,automatic,petrol,blue mercedes-benz a class. a220 amg line premium 5dr auto 2.0. 1 previous owner,leitrim
+mercedes-benz c class (mhev),42114.00,14/04/2024,2022,9647,estate,automatic,petrol hybrid,grey mercedes-benz c class. c200 amg line premium 5dr 9g-tronic 1.5. 1 previous owner,cork
+mercedes-benz c class (c63 v8 biturbo),90459.00,2024-04-14,2022,314,convertible,automatic,petrol,black mercedes-benz c-class. mercedes-amg c 63 s night edition cabriolet 4.0 2dr,galway
+mercedes-benz e class (amg night edition),16269.00,15/04/2024,2016,65416,estate,automatic,diesel,red mercedes-benz e class. 2.1 e220 bluetec amg night edition (premium) g-tronic+ euro 6 (s/s) 5dr,dublin
+mercedes-benz c class (bluetec),13327.00,2024-04-15,2015,102364,saloon,manual,diesel,silver mercedes-benz c-class. c200 bluetec amg line 4dr 1.6. 5 previous owners,mayo
+mercedes-benz e class (e250 cdi),9430.00,15/04/2024,2013,75061,convertible,automatic,diesel,navy mercedes-benz e class. 2.1 e250 cdi blueefficiency sport cabriolet g-tronic+ euro 5 (s/s) 2dr. 2 previous owners,dublin
+mercedes-benz e class (amg line),21359.00,16/04/2024,2017,64947,saloon,automatic,diesel,mercedes-benz e class. 2.0 e220d amg line (premium) g-tronic+ euro 6 (s/s) 4dr. 4 previous owners,roscommon
+mercedes-benz a class (a35),32267,17/04/2024,2019,20377,hatchback,automatic,petrol,mercedes-benz a class. a35 4matic premium 5dr auto 2.0,kildare
+mercedes-benz c class (se edition 125),3971.00,18/04/2024,2011,153044,saloon,manual,diesel,mercedes-benz c class. 2.1 c220 cdi blueefficiency se edition 125 euro 5 (s/s) 4dr. 2 previous owners,limerick
+mercedes-benz a class (amg line),15508,19/04/2024,2017,65359,hatchback,manual,diesel,blue mercedes-benz a-class. 1.5 a 180 d amg line premium plus 5d 107 bhp. 2 previous owners,kildare
+mercedes-benz e class (e220d),19644.00,19/04/2024,2017,60295,saloon,automatic,diesel,black mercedes-benz e class. 2.0 e220d se g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,wicklow
+mercedes-benz gla class (gla200d),22164.00,19/04/2024,2019,33298,suv,automatic,diesel,blue mercedes-benz gla class. 2.1 gla200d sport (executive) 7g-dct euro 6 (s/s) 5dr. 1 previous owner,cork
+mercedes-benz a class (avantgarde se),4801.00,20/04/2024,2012,69114,hatchback,manual,petrol,grey mercedes-benz a class. 1.5 a160 blueefficiency avantgarde se 5dr. 2 previous owners,cork
+mercedes-benz e class (e400),16595.00,20/04/2024,2014,71110,coupe,auto,petrol,mercedes-benz e-class. 3.0 e400 amg sport plus 2d 333 bhp,galway
+mercedes-benz a class (amg line edition),28941.00,21/04/2024,2021,2331,hatchback,manual,petrol,grey mercedes-benz a class. a180 amg line executive edition 5dr 1.3,cork
+mercedes-benz gla class (gla200),25949.00,21/04/2024,2019,30272,suv,automatic,petrol,"blue mercedes-benz gla-class. 1.6 gla 200 amg line edition 5d 155 bhp automatic, full main dealer history. 1 previous owner",clare
+mercedes-benz e class (amg line),16341.00,2024-04-21,2016,104315,saloon,automatic,diesel,red mercedes-benz e class. e 220 d amg line 2.0 4dr. 2 previous owners,waterford
+mercedes-benz cla class (cla180),33179.00,21/04/2024,2019,12799,saloon,automatic,petrol,mercedes-benz cla. 180 amg line premium plus 4dr tip auto petrol saloon 1.3,dublin
+mercedes-benz c class (blueefficiency),11042.00,2024-04-22,2013,68201,estate,automatic,diesel,grey mercedes-benz c class. c220 cdi blueeff amg sport 5dr auto 2.1. 3 previous owners,kilkenny
+mercedes-benz c class (c63 v8 biturbo),41264.00,22/04/2024,2017,32590,coupe,automatic,petrol,navy mercedes-benz c class. c63 premium 2dr auto 4.0,dublin
+mercedes-benz c class (bluetec),13739.00,22/04/2024,2014,98163,saloon,automatic,diesel,blue mercedes-benz c class. 2.1 c220 bluetec amg line saloon 4dr diesel g-tronic+ euro 6 (s/s) (170 ps). 2 previous owners,galway
+mercedes-benz gla class (amg line),21960.00,23/04/2024,2016,34387,suv,automatic,petrol,black mercedes-benz gla class. gla 250 4matic amg line premium plus 2.0 5dr,dublin
+mercedes-benz glc class (glc220d),21274,24/04/2024,2016,64646,s.u.v.,automatic,diesel,blue mercedes-benz glc. 2.2 220d sport premium plus 4matic 5dr,meath
+mercedes-benz gla class (amg line),19479.00,2024-04-24,2017,46958,suv,automatic,diesel,red mercedes-benz gla class. 2.1l amg line gla220d 5dr,kildare
+mercedes-benz gle class (amg line),52817.00,24/04/2024,2019,15193,suv,automatic,diesel,black mercedes-benz gle-class. gle 300 d 4matic amg line 5 seats 2.0 5dr,cork
+mercedes-benz a class (a180),19060.00,25/04/2024,2019,23748,hatchback,automatic,petrol,red mercedes-benz a-class. a 180 se 1.3 5dr,dublin
+mercedes-benz a class (a180d),22920.00,25/04/2024,2018,24683,hatchback,automatic,diesel,navy mercedes-benz a class. a180d sport 5dr auto 1.5,limerick
+mercedes-benz gle class (gle350d v6),27327.00,26/04/2024,2017,105245,suv,automatic,diesel,black mercedes-benz gle class. 3.0 gle350d v6 amg line (premium plus) g-tronic 4matic euro 6 (s/s) 5dr. 1 previous owner,limerick
+mercedes-benz e class (amg line),22761.00,26/04/2024,2018,49052,saloon,automatic,diesel,red mercedes-benz e class. 2.0 e220d amg line g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz glb class (glb200),42334.00,27/04/2024,2022,7391,suv,automatic,petrol,navy mercedes-benz glb. 200 amg line premium 5dr 7g-tronic petrol estate 1.3,cork
+mercedes-benz gla class (gla250),17339,28/04/2024,2014,75852,suv,automatic,petrol,"mercedes-benz gla-class. 2.0 gla250 4matic amg line premium plus 5dr 211 bhp 19""s+heat seats+auto climate+cruise. 2 previous owners",offaly
+mercedes-benz m class (ml350 cdi v6),7816.00,28/04/2024,2011,148170,suv,automatic,diesel,blue mercedes-benz m class. 3.0 ml350 cdi v6 blueefficiency sport g-tronic 4wd euro 5 5dr. 4 previous owners,cork
+mercedes-benz cla class (amg line night edition),25253,29/04/2024,2018,23797,saloon,automatic,diesel,mercedes-benz cla class. 2.1 cla220d amg line night edition coupe 4dr diesel 7g-dct euro 6 (s/s) (170 ps). 2 previous owners,wexford
+mercedes-benz c class (c200),23302.00,30/04/2024,2017,18107,saloon,automatic,petrol,navy mercedes-benz c-class. 2.0 c 200 amg line premium 4d 184 bhp amg line / premium package,louth
+mercedes-benz e class (se),23718.00,01/05/2024,2018,33427,saloon,automatic,diesel,blue mercedes-benz e class. e220d se 4dr 9g-tronic 2.0,meath
+mercedes-benz a class (motorsport edition),18385.00,01/05/2024,2016,56206,hatchback,automatic,diesel,grey mercedes-benz a-class. 2.1 a 220 d motorsport edition premium 5d 174 bhp,dublin
+mercedes-benz gla class (amg line edition),27349,03/05/2024,2019,24174,suv,automatic,petrol,red mercedes-benz gla class. 1.6 gla200 amg line edition (plus) 7g-dct euro 6 (s/s) 5dr,cork
+mercedes-benz cls (blueefficiency),9841.00,2024-05-04,2013,98286,saloon,automatic,diesel,silver mercedes-benz cls. 2.1 cls250 cdi blueefficiency amg sport coupe g-tronic+ euro 5 (s/s) 4dr. 4 previous owners,louth
+mercedes-benz e class (bluetec),13335.00,04/05/2024,2014,73804,saloon,automatic,diesel,silver mercedes-benz e class. 3.0 e350 v6 bluetec amg sport g-tronic+ euro 6 (s/s) 4dr,donegal
+mercedes-benz c class (amg s edition 1 motorsport),66401,04/05/2024,2017,23361,coupe,automatic,petrol,silver mercedes-benz c class. amg c 63 s edition 1 motorsport 4.0 2dr,dublin
+mercedes-benz e class (amg line),14096.00,04/05/2024,2014,91995,estate,automatic,diesel,blue mercedes-benz e class. 2.1 e250 cdi amg line g-tronic+ euro 5 (s/s) 5dr. 2 previous owners,dublin
+mercedes-benz gle class (amg line),29704.00,2024-05-05,2017,41708,s.u.v.,automatic,diesel,grey mercedes-benz gle. gle 350d 4matic amg line 5dr 9g-tronic 3.0,galway
+mercedes-benz c class (c200),24976,06/05/2024,2019,36404,estate,automatic,petrol,mercedes-benz c-class. 1.5 c 200 amg line 5d auto 181 bhp. 2 previous owners,dublin
+mercedes-benz cla class (cla180),33979.00,06/05/2024,2020,13767,saloon,automatic,petrol,black mercedes-benz cla class. 1.3 cla180 amg line (premium plus 2) coupe 7g-dct euro 6 (s/s) 4dr. 2 previous owners,tipperary
+mercedes-benz a class (amg line),16893.00,06/05/2024,2017,48918,hatchback,automatic,diesel,navy mercedes-benz a class. 2.1l amg line a200d 5dr,dublin
+mercedes-benz gla class (amg line edition),26436.00,06/05/2024,2019,8850,suv,automatic,petrol,silver mercedes-benz gla. 180 amg line edition 5dr auto petrol hatchback 1.6,cavan
+mercedes-benz gla class (amg line),17485.00,07/05/2024,2017,56482,suv,automatic,diesel,mercedes-benz gla class. 2.1 gla200d amg line suv 5dr diesel 7g-dct euro 6 (s/s) (136 ps). 2 previous owners,dublin
+mercedes-benz e class (amg night edition),13197.00,07/05/2024,2015,78412,saloon,automatic,diesel,black mercedes-benz e class. 2.1 e220 bluetec amg night edition g-tronic+ euro 6 (s/s) 4dr. 4 previous owners,dublin
+mercedes-benz c class (amg line),16431.00,08/05/2024,2017,86626,saloon,automatic,diesel,black mercedes-benz c-class. 1.6 c200 d amg line 4d 136 bhp,laois
+mercedes-benz c class (c220d),17876.00,08/05/2024,2018,60811,saloon,automatic,diesel,mercedes-benz c class. c220d se executive edition 4dr 9g-tronic 2.1,clare
+mercedes-benz a class (a220),22746.00,09/05/2024,2019,30023,hatchback,auto,petrol,mercedes-benz a class. 2.0 a220 amg line 7g-dct euro 6 (s/s) 5dr. 1 previous owner,dublin
+mercedes-benz e class (blueefficiency),8957.00,10/05/2024,2012,104755,convertible,automatic,diesel,mercedes-benz e class. 3.0 e350 cdi v6 blueefficiency sport cabriolet g-tronic 2dr. 2 previous owners,dublin
+mercedes-benz gla class (amg line edition),27838.00,10/05/2024,2020,7382,suv,automatic,petrol,mercedes-benz gla class. 1.6 gla180 amg line edition suv 5dr petrol 7g-dct euro 6 (s/s) (122 ps). 1 previous owner,waterford
+mercedes-benz c class (c200),16606.00,11/05/2024,2014,46521,saloon,automatic,petrol,black mercedes-benz c class. 2.0 c200 amg line 7g-tronic+ euro 6 (s/s) 4dr. 3 previous owners,limerick
+mercedes-benz glc class (glc220d),30793.00,11/05/2024,2018,30839,suv,automatic,diesel,"grey mercedes-benz glc-class. 2.1 glc 220 d 4matic amg line premium 5d 168 bhp pan roof, heated seats, nav. 1 previous owner",laois
+mercedes-benz c class (c180k),6468.00,14/05/2024,2010,104122,estate,automatic,petrol,grey mercedes-benz c class. 1.6 c180k blueefficiency sport auto euro 4 5dr,monaghan
+mercedes-benz gle class (amg line),57485.00,2024-05-17,2019,11098,suv,automatic,petrol,"blue mercedes-benz gle-class. 3.0 gle 450 4matic amg line premium plus 5d 363 bhp burmester! active park assist! 22""s",cork
+mercedes-benz a class (a180),22309.00,2024-05-17,2019,18529,hatchback,manual,petrol,red mercedes-benz a class hatchback. a180 sport executive 5dr 1.3. 1 previous owner,cork
+mercedes-benz cla class (amg sport),15420.00,17/05/2024,2016,60856,saloon,manual,petrol,red mercedes-benz cla. cla 180 amg sport 4dr 1.6,dublin
+mercedes-benz c class (c250d),24028.00,18/05/2024,2018,32625,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c250d amg line (premium plus) g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,meath
+mercedes-benz e class (e200),8255.00,2024-05-19,2012,115442,estate,automatic,petrol,mercedes-benz e class. 1.8 e200 blueefficiency se g-tronic+ euro 5 (s/s) 5dr,dublin
+mercedes-benz gle class (amg night edition),47551.00,20/05/2024,2019,25778,coupe,automatic,diesel,black mercedes-benz gle class. 3.0 gle 350 d 4matic amg night edition 5dr 255 bhp reverse cam+web browse+memory seats,meath
+mercedes-benz c class (elegance),5412.00,20/05/2024,2012,137468,saloon,automatic,diesel,silver mercedes-benz c class. 2.1 c200 cdi blueefficiency elegance g-tronic+ euro 5 (s/s) 4dr. 3 previous owners,galway
+mercedes-benz glc class (glc220d),26634.00,21/05/2024,2018,35895,suv,automatic,diesel,blue mercedes-benz glc class. 2.1l amg line glc220d 5dr,limerick
+mercedes-benz c class (c200),14123.00,21/05/2024,2015,52924,saloon,automatic,petrol,mercedes-benz c class. 2.0 c200 se 7g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz glc class (glc250d),30163.00,22/05/2024,2018,24138,suv,automatic,diesel,grey mercedes-benz glc-class. glc 250 d 4matic amg line premium 2.1 5dr. 1 previous owner,wexford
+mercedes-benz c class (se),8688.00,2024-05-22,2015,176224,estate,automatic,diesel,red mercedes-benz c class. 2.1 c220 bluetec se g-tronic+ euro 6 (s/s) 5dr,waterford
+mercedes-benz e class (amg line),26749.00,23/05/2024,2017,80127,coupe,auto,diesel,red mercedes-benz e class. 2.0 e220d amg line (premium plus) g-tronic+ euro 6 (s/s) 2dr. 2 previous owners,dublin
+mercedes-benz a class (amg sport),8992.00,2024-05-23,2013,123413,hatchback,automatic,diesel,mercedes-benz a class. 1.8 a200 cdi blueefficiency amg sport 7g-dct 5dr. 4 previous owners,galway
+mercedes-benz a class (amg line),21236.00,24/05/2024,2019,29403,hatchback,automatic,petrol,black mercedes-benz a class. 1.3 a180 amg line 7g-dct euro 6 (s/s) 5dr. 1 previous owner,kildare
+mercedes-benz a class (sport),22824.00,25/05/2024,2020,26871,hatchback,automatic,petrol,"mercedes-benz a-class. 1.3 a 180 sport executive 5d 135 bhp rev camera, sat nav, xenon. 1 previous owner",dublin
+mercedes-benz c class (c250 cdi),8184.00,25/05/2024,2013,88175,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c250 cdi blueefficiency amg sport g-tronic+ euro 5 (s/s) 4dr. 5 previous owners,dublin
+mercedes-benz sl class (blueefficiency),20120.00,2024-05-26,2012,48342,convertible,automatic,petrol,mercedes-benz sl class convertible. 3.5 sl350 2dr automatic. 5 previous owners,cork
+mercedes-benz e class (e220d),25361.00,27/05/2024,2017,60925,estate,automatic,diesel,navy mercedes-benz e class. 2.0 e220d amg line (premium plus) g-tronic+ 4matic euro 6 (s/s) 5dr. 2 previous owners,dublin
+mercedes-benz gla class (gla250),24820,2024-05-27,2017,12251,suv,automatic,petrol,blue mercedes-benz gla class. gla 250 4matic sport 2.0 5dr,dublin
+mercedes-benz a class (classic),1649.00,29/05/2024,2008,108108,hatchback,manual,petrol,silver mercedes-benz a class. 1.5 a150 classic 5dr,clare
+mercedes-benz e class (e300),30866.00,2024-05-29,2018,30325,convertible,automatic,petrol,grey mercedes-benz e-class. e300 2.0 amg line 2 door **\xa3449 a month with \xa33309 deposit**. 2 previous owners,cork
+mercedes-benz gla class (amg line),16255.00,29/05/2024,2015,60019,suv,automatic,diesel,red mercedes-benz gla-class. 2.1 gla220 cdi 4matic amg line 5d 168 bhp,mayo
+mercedes-benz cls (amg line),38346.00,29/05/2024,2018,32384,saloon,automatic,diesel,red mercedes-benz cls. cls 400d 4matic amg line premium + 4dr 9g-tronic 2.9,dublin
+mercedes-benz c class (executive se),9350.00,30/05/2024,2014,71134,saloon,automatic,petrol,blue mercedes-benz c class. 1.6 c180 executive se g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz e class (bluetec),20484.00,01/06/2024,2016,45278,convertible,automatic,diesel,grey mercedes-benz e class. 3.0 e350d v6 bluetec amg line cabriolet g-tronic+ euro 6 (s/s) 2dr. 3 previous owners,galway
+mercedes-benz c class (c200),28150.00,01/06/2024,2019,24260,coupe,automatic,petrol,red mercedes-benz c class. 1.5 c200 eq boost amg line g-tronic+ euro 6 (s/s) 2dr. 1 previous owner,donegal
+mercedes-benz a class (a35),36601.00,02/06/2024,2020,13575,hatchback,auto,petrol,mercedes-benz a class. a35 4matic premium 5dr auto 2.0. 1 previous owner,dublin
+mercedes-benz c class (c220d),23423.00,03/06/2024,2017,46385,saloon,automatic,diesel,black mercedes-benz c-class. 2.1 c 220 d 4matic amg line premium plus 4d 170 bhp. 2 previous owners,galway
+mercedes-benz c class (c220d),17312.00,03/06/2024,2015,29662,saloon,automatic,diesel,grey mercedes-benz c-class. 2.1 c220 d sport 4d 170 bhp stunning well maintained c220d!. 2 previous owners,mayo
+mercedes-benz c class (c250 cdi),9910.00,2024-06-04,2012,65085,saloon,automatic,diesel,navy mercedes-benz c class. c250 cdi blueefficiency amg sport 4dr auto 2.1,louth
+mercedes-benz e class (amg line),18045.00,2024-06-04,2015,38646,convertible,automatic,diesel,mercedes-benz e class. 2.1 e220 bluetec amg line cabriolet 2dr diesel g-tronic+ euro 6 (s/s) (177 ps). 2 previous owners,kildare
+mercedes-benz clk (clk200),10426.00,04/06/2024,2009,29452,convertible,automatic,petrol,black mercedes-benz clk. 1.8 clk200 kompressor sport 2d 181 bhp finance available + 2 keys,laois
+mercedes-benz slk (slk200k),7436,2024-06-04,2008,44389,convertible,automatic,petrol,navy mercedes-benz slk. 1.8 slk200k 2dr,wicklow
+mercedes-benz gla class (gla200d),17948.00,05/06/2024,2017,54191,suv,manual,diesel,red mercedes-benz gla class. 2.1 gla200d amg line euro 6 (s/s) 5dr. 1 previous owner,galway
+mercedes-benz a class (blueefficiency),8636.00,06/06/2024,2013,92067,hatchback,automatic,diesel,black mercedes-benz a class. 1.8 a200 cdi blueefficiency sport 7g-dct euro 5 (s/s) 5dr,meath
+mercedes-benz cls (cls400d),38367.00,2024-06-07,2018,32237,saloon,automatic,diesel,blue mercedes-benz cls. cls 400d 4matic amg line premium + 4dr 9g-tronic 2.9,cork
+mercedes-benz sl class (blueefficiency),18394,2024-06-07,2014,76279,convertible,automatic,petrol,blue mercedes-benz sl class. 3.5 sl350 v6 blueefficiency g-tronic euro 5 (s/s) 2dr. 4 previous owners,kildare
+mercedes-benz e class (e250 cdi),12525.00,08/06/2024,2013,56885,coupe,automatic,diesel,blue mercedes-benz e class. 2.1 e250 cdi amg sport g-tronic+ euro 5 (s/s) 2dr,dublin
+mercedes-benz cla class (cla220),29935.00,10/06/2024,2019,23170,estate,automatic,petrol,mercedes-benz cla-class. cla 220 shooting brake 2.0 5dr,galway
+mercedes-benz c class (blueefficiency),7043.00,10/06/2024,2011,67216,saloon,manual,petrol,red mercedes-benz c class. 1.8 c180 blueefficiency se euro 5 (s/s) 4dr,dublin
+mercedes-benz cla class (amg line),30483.00,12/06/2024,2019,22660,saloon,automatic,petrol,blue mercedes-benz cla. 200 amg line premium 4dr tip auto petrol saloon 1.3,cork
+mercedes-benz gle class (amg line),70365.00,2024-06-12,2021,1132,suv,automatic,diesel plug-in hybrid,black mercedes-benz gle diesel estate. gle 350de 4matic amg line 5dr 9g-tronic 2.0. 1 previous owner,waterford
+mercedes-benz e class (bluetec),13991.00,12/06/2024,2013,73131,estate,automatic,diesel hybrid,blue mercedes-benz e class. 2.1 e300dh bluetec amg sport g-tronic+ euro 5 (s/s) 5dr. 3 previous owners,limerick
+mercedes-benz c class (c63 v8),25235.00,13/06/2024,2014,63885,coupe,automatic,petrol,navy mercedes-benz c class. 6.3 c63 v8 amg edition 125 spds mct euro 5 2dr. 4 previous owners,dublin
+mercedes-benz e class (e220 cdi),4518.00,14/06/2024,2012,159793,saloon,automatic,diesel,navy mercedes-benz e class. 2.1 e220 cdi blueefficiency executive se g-tronic 4dr. 2 previous owners,westmeath
+mercedes-benz c class (amg line),17032,2024-06-14,2017,59269,saloon,auto,diesel,silver mercedes-benz c class. 2.1 c220d amg line g-tronic+ euro 6 (s/s) 4dr. 3 previous owners,carlow
+mercedes-benz e class (e250 cdi),9674.00,14/06/2024,2012,71946,coupe,automatic,diesel,grey mercedes-benz e class. 2.1 e250 cdi blueefficiency sport g-tronic+ euro 5 (s/s) 2dr,donegal
+mercedes-benz cla class (cla220d),24605.00,14/06/2024,2018,18219,saloon,automatic,diesel,mercedes-benz cla class. cla 220d amg line 4dr tip auto 2.1. 3 previous owners,kildare
+mercedes-benz m class (se),8795.00,15/06/2024,2011,95626,suv,automatic,diesel,grey mercedes-benz m class. 3.0 ml300 cdi v6 blueefficiency se g-tronic 4wd euro 5 5dr. 2 previous owners,louth
+mercedes-benz c class (executive se),9296.00,2024-06-15,2013,86208,estate,automatic,petrol,black mercedes-benz c-class. 1.6 c180 blueefficiency executive se 5d 154 bhp,dublin
+mercedes-benz a class (a220 cdi),12475,15/06/2024,2014,77472,hatchback,automatic,diesel,grey mercedes-benz a class. 2.1 a220 cdi amg sport 7g-dct euro 6 (s/s) 5dr,limerick
+mercedes-benz glc class (glc43 v6),47333.00,16/06/2024,2018,9433,coupe,automatic,petrol,grey mercedes-benz glc class. 3.0 glc43 v6 amg (premium plus) g-tronic+ 4matic euro 6 (s/s) 5dr. 1 previous owner,galway
+mercedes-benz gle class (gle350d v6),39973.00,2024-06-16,2017,25719,coupe,automatic,diesel,blue mercedes-benz gle class. 3.0 gle350d v6 amg line (premium plus) g-tronic 4matic euro 6 (s/s) 5dr. 4 previous owners,cork
+mercedes-benz e class (sport),9473.00,16/06/2024,2011,54131,convertible,automatic,petrol,mercedes-benz e class. 1.8 e250 cgi blueefficiency sport cabriolet tiptronic euro 5 2dr. 2 previous owners,cork
+mercedes-benz gle class (gle63 v8),46412.00,16/06/2024,2015,61977,coupe,automatic,petrol,black mercedes-benz gle class. 5.5 gle63 v8 amg s (premium) spds+7gt 4matic euro 6 (s/s) 5dr,meath
+mercedes-benz cls (cls350d v6),23317.00,17/06/2024,2016,37748,saloon,automatic,diesel,black mercedes-benz cls class. 3.0 cls350 d amg line premium 4d 255 bhp dab radio + sun roof,meath
+mercedes-benz a class (amg line),17545.00,17/06/2024,2017,30764,hatchback,automatic,diesel,silver mercedes-benz a-class. 1.5 a 180 d amg line executive 5d 107 bhp,dublin
+mercedes-benz a class (a180d),19106,17/06/2024,2018,75694,hatchback,automatic,diesel,black mercedes-benz a class. 1.5 a180d amg line (premium) hatchback 5dr diesel 7g-dct euro 6 (s/s) (116 ps). 2 previous owners,dublin
+mercedes-benz gle class (amg line),29891.00,2024-06-17,2015,68382,coupe,automatic,diesel,grey mercedes-benz gle-class. 3.0 gle 350 d 4matic amg line 4d 255 bhp ulez/bluetooth/sat nav. 4 previous owners,cork
+mercedes-benz e class (e400d),34306.00,17/06/2024,2018,55241,saloon,automatic,diesel,silver mercedes-benz e class. 3.0 e400d amg line (premium plus) g-tronic+ 4matic euro 6 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz gla class (amg line),19846.00,17/06/2024,2018,49431,suv,automatic,diesel,navy mercedes-benz gla class. 2.1 gla200d amg line 7g-dct euro 6 (s/s) 5dr,cork
+mercedes-benz e class (e220d),28340.00,18/06/2024,2019,53297,convertible,automatic,diesel,red mercedes-benz e class. 2.0 e220d amg line (premium) cabriolet 2dr diesel g-tronic+ euro 6 (s/s) (194 ps). 2 previous owners,dublin
+mercedes-benz c class (amg sport edition),10390.00,19/06/2024,2014,70552,coupe,auto,diesel,red mercedes-benz c class. 2.1 c250 cdi amg sport edition g-tronic+ euro 5 (s/s) 2dr. 3 previous owners,kildare
+mercedes-benz c class (c250d),20172.00,21/06/2024,2016,43269,saloon,automatic,diesel,red mercedes-benz c class. mercedes-benz c c250d 2.1 amg line premium 4dr auto. 3 previous owners,cork
+mercedes-benz slk (slk200),6851.00,21/06/2024,2008,42553,convertible,automatic,petrol,navy mercedes-benz slk. 1.8 slk200 kompressor 2dr. 3 previous owners,wexford
+mercedes-benz c class (blueefficiency),5564.00,22/06/2024,2011,94171,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c220 cdi blueefficiency sport edition 125 g-tronic+ euro 5 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz e class (e200),28063.00,22/06/2024,2019,22448,estate,auto,petrol,red mercedes-benz e class. 2.0 e200 amg line g-tronic+ euro 6 (s/s) 5dr,dublin
+mercedes-benz c class (c200),19436.00,23/06/2024,2017,31787,saloon,automatic,petrol,black mercedes-benz c class. 2.0 c200 sport g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,galway
+mercedes-benz cla class (cla45),23205.00,24/06/2024,2016,63629,estate,automatic,petrol,red mercedes-benz cla class. 2.0 cla45 amg shooting brake spds dct 4matic euro 6 (s/s) 5dr,mayo
+mercedes-benz gle class (amg line),52349.00,24/06/2024,2020,21162,suv,automatic,diesel,blue mercedes-benz gle. gle 300d 4matic amg line prem + 5dr 9g-tron [7 st] 2.0,kildare
+mercedes-benz a class (a45),21175.00,24/06/2024,2015,60033,hatchback,automatic,petrol,mercedes-benz a class. 2.0 a45 amg spds dct 4matic euro 6 (s/s) 5dr. 3 previous owners,louth
+mercedes-benz eqc (eqc 400),73060.00,25/06/2024,2022,8155,suv,automatic,electric,red mercedes-benz eqc. 400 300kw amg line premium 80kwh 5dr auto. 1 previous owner,louth
+mercedes-benz cls (cls350),42473.00,2024-06-26,2019,4766,saloon,automatic,petrol,black mercedes-benz cls. 2.0 cls350 eq boost amg line (premium plus) g-tronic (s/s) 4dr. 1 previous owner,dublin
+mercedes-benz e class (e200),17493.00,2024-06-26,2016,67008,coupe,automatic,petrol,grey mercedes-benz e class. e200 amg line edition 2dr 7g-tronic 2.0,kerry
+mercedes-benz a class (amg line),17809.00,26/06/2024,2018,30330,hatchback,automatic,diesel,navy mercedes-benz a class. a180d amg line 5dr auto 1.5,clare
+mercedes-benz c class (c220 cdi),10702.00,2024-06-27,2013,51487,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c220 cdi blueefficiency amg sport g-tronic+ euro 5 (s/s) 4dr. 2 previous owners,dublin
+mercedes-benz cla class (amg line),34144.00,28/06/2024,2019,18170,saloon,automatic,petrol,blue mercedes-benz cla. cla 220 amg line premium plus 4dr tip auto 2.0. 2 previous owners,meath
+mercedes-benz eqc (amg line),68770.00,29/06/2024,2022,5389,suv,automatic,electric,red mercedes-benz eqc. 400 300kw amg line 80kwh 5dr auto. 1 previous owner,dublin
+mercedes-benz c class (bluetec),10904.00,29/06/2024,2014,111248,saloon,manual,diesel,black mercedes-benz c class. 2.1 c220 bluetec amg line (s/s) 4dr,wicklow
+mercedes-benz c class (amg sport),10962,2024-06-30,2013,46133,coupe,automatic,diesel,mercedes-benz c-class. 2.1 c250 cdi blueefficiency amg sport 2d 204 bhp,cork
+mercedes-benz c class (sport),15464.00,30/06/2024,2015,65466,saloon,automatic,petrol,black mercedes-benz c class. 2.0 c200 sport (premium) 7g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,cork
+mercedes-benz gle class (gle400d),56309.00,2024-06-30,2019,30096,suv,automatic,diesel,blue mercedes-benz gle class. gle400d premium plus 7 seats 4matic amg line 2.9 5dr,monaghan
+mercedes-benz c class (sport),19169.00,01/07/2024,2015,38982,saloon,automatic,petrol plug-in hybrid,black mercedes-benz c class saloon. c350e sport 4dr auto 2.0. 1 previous owner,cork
+mercedes-benz glc class (glc300d),43990.00,01/07/2024,2020,20266,suv,automatic,diesel,blue mercedes-benz glc diesel estate. glc 300d 4matic amg line premium pls 5dr 9g-tronic 2.0. 1 previous owner,dublin
+mercedes-benz e class (e220d),20446.00,2024-07-03,2017,50530,saloon,automatic,diesel,silver mercedes-benz e class. 2.0 e220d se g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,offaly
+mercedes-benz cla class (cla180),29177.00,03/07/2024,2019,22477,saloon,automatic,petrol,black mercedes-benz cla coupe. cla 180 amg line 4dr tip auto 1.3. 1 previous owner,monaghan
+mercedes-benz c class (c220d),16407.00,03/07/2024,2016,43479,saloon,automatic,diesel,red mercedes-benz c class. mercedes-benz c c220d 2.1 se executive 4dr auto. 2 previous owners,westmeath
+mercedes-benz cla class (cla180),37508.00,03/07/2024,2022,7313,estate,automatic,petrol,blue mercedes-benz cla class. cla 180 amg line premium plus 5dr tip auto 1.3,kildare
+mercedes-benz m class (amg line),19370.00,04/07/2024,2015,102759,suv,automatic,diesel,navy mercedes-benz m class. 3.0 ml350 v6 bluetec amg line g-tronic 4wd euro 6 (s/s) 5dr,cork
+mercedes-benz c class (c220d),9110.00,05/07/2024,2016,156376,estate,automatic,diesel,blue mercedes-benz c class. 2.1 c220d sport 7g-tronic+ euro 6 (s/s) 5dr. 3 previous owners,dublin
+mercedes-benz a class (a180),22355.00,05/07/2024,2021,8720,hatchback,manual,petrol,mercedes-benz a class. a180 se 5dr ** heated seats - navigation ** 1.3. 1 previous owner,kildare
+mercedes-benz sl class (sl350),14247.00,06/07/2024,2009,71236,convertible,automatic,petrol,navy mercedes-benz sl class. sl 350 2dr tip auto 3.5,dublin
+mercedes-benz slk (blueefficiency),11981.00,07/07/2024,2012,69331,convertible,automatic,diesel,blue mercedes-benz slk. 2.1 slk250 cdi blueefficiency amg sport 7g-tronic plus (s/s) 2dr. 6 previous owners,dublin
+mercedes-benz a class (a180d),18007.00,09/07/2024,2017,29535,hatchback,automatic,diesel,grey mercedes-benz a class. 1.5 a180d se 7g-dct euro 6 (s/s) 5dr. 2 previous owners,dublin
+mercedes-benz a class (a250),18795.00,09/07/2024,2016,53770,hatchback,automatic,petrol,red mercedes-benz a class. a250 4matic amg premium 5dr auto 2.0,cork
+mercedes-benz gle class (gle300d),51762.00,09/07/2024,2019,14860,suv,automatic,diesel,red mercedes-benz gle. gle 300d 4matic amg line premium 5dr 9g-tronic 2.0,dublin
+mercedes-benz c class (amg line),17365.00,10/07/2024,2017,67386,saloon,automatic,diesel,grey mercedes-benz c class. c220d amg line 4dr 2.1. 3 previous owners,galway
+mercedes-benz a class (a35),37330.00,11/07/2024,2019,30207,hatchback,automatic,petrol,blue mercedes-benz a class. 2.0 a35 amg (premium plus) spds dct 4matic euro 6 (s/s) 5dr,limerick
+mercedes-benz e class (e250 cdi),13196.00,11/07/2024,2015,75149,saloon,automatic,diesel,black mercedes-benz e class. 2.1 e250 cdi amg line g-tronic+ euro 5 (s/s) 4dr,kildare
+mercedes-benz a class (a180d),20441.00,2024-07-11,2019,42041,hatchback,automatic,diesel,silver mercedes-benz a class. mercedes-benz a a180d 1.5 se executive 5dr auto. 1 previous owner,dublin
+mercedes-benz a class (a180),23090.00,2024-07-13,2019,10572,hatchback,manual,petrol,mercedes-benz a class hatchback. a180 sport executive 5dr 1.3. 1 previous owner,waterford
+mercedes-benz c class (sport),4252,13/07/2024,2009,98885,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c220 cdi sport auto euro 4 4dr. 5 previous owners,galway
+mercedes-benz a class (blueefficiency),2960,13/07/2024,2010,86564,hatchback,manual,petrol,mercedes-benz a class. 1.5 a160 blueefficiency classic se 3dr. 1 previous owner,donegal
+mercedes-benz e class (e350d v6),20148.00,14/07/2024,2016,45024,convertible,automatic,diesel,black mercedes-benz e class. 3.0 e350d v6 bluetec amg line cabriolet g-tronic+ euro 6 (s/s) 2dr. 3 previous owners,dublin
+mercedes-benz cla class (amg line),32950.00,2024-07-15,2021,12189,saloon,automatic,petrol,blue mercedes-benz cla. cla 200 amg line 4dr tip auto 1.3. 1 previous owner,sligo
+mercedes-benz e class (amg sport),13213.00,16/07/2024,2013,33140,saloon,automatic,diesel,blue mercedes-benz e class. 2.1 e220 cdi amg sport g-tronic+ euro 5 (s/s) 4dr,cork
+mercedes-benz c class (sport),19158.00,17/07/2024,2016,56926,saloon,automatic,petrol plug-in hybrid,blue mercedes-benz c class. c350e sport premium plus 4dr auto 2.0,wicklow
+mercedes-benz gle class (gle450h),52243.00,17/07/2024,2019,45255,suv,automatic,petrol,grey mercedes-benz gle. 450 4matic amg line prem + 5dr 9g-tron [7 st] 3.0,laois
+mercedes-benz c class (elegance),5569,18/07/2024,2008,74545,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c220 cdi elegance auto euro 4 4dr,sligo
+mercedes-benz a class (a180d),14703.00,18/07/2024,2016,32557,hatchback,manual,diesel,black mercedes-benz a class. a180d se 5dr 1.5,wicklow
+mercedes-benz a class (amg line),16410.00,18/07/2024,2017,35133,hatchback,manual,petrol,navy mercedes-benz a class. 1.6 a180 amg line (executive) euro 6 (s/s) 5dr. 2 previous owners,wexford
+mercedes-benz e class (amg line night edition),35359.00,18/07/2024,2019,18099,saloon,automatic,diesel,navy mercedes-benz e class. e 220 d amg line night edition premium 2.0 4dr. 1 previous owner,louth
+mercedes-benz c class (sport),5406.00,20/07/2024,2009,45152,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c250 cdi blueefficiency sport saloon 4dr diesel auto euro 5 (204 ps). 1 previous owner,dublin
+mercedes-benz glc class (glc43 v6),57268.00,20/07/2024,2022,2976,suv,auto,petrol,black mercedes-benz glc. 43 4matic premium 5dr mct 3.0,galway
+mercedes-benz gla class (gla220 cdi),15900.00,20/07/2024,2014,61924,suv,automatic,diesel,mercedes-benz gla. gla 220 cdi 4matic amg line 5dr auto 2.1,dublin
+mercedes-benz a class (a200),22361,20/07/2024,2019,21734,hatchback,manual,petrol,black mercedes-benz a-class. a200 amg line hatchback 5dr petrol 7g-dct euro 6 (s/s) (163 ps nationwide delivery 1.6,cork
+mercedes-benz a class (amg s plus),56813.00,21/07/2024,2021,12908,hatchback,automatic,petrol,red mercedes-benz a class. a45 s 4matic+ plus 5dr auto 2.0. 2 previous owners,louth
+mercedes-benz gle class (gle350d),53350.00,2024-07-22,2019,19602,s.u.v.,automatic,diesel,black mercedes-benz gle. gle 350d 4matic amg line prem + 5dr 9g-tron [7 st] 2.9,cavan
+mercedes-benz a class (amg line edition),37859.00,22/07/2024,2021,17008,saloon,automatic,petrol plug-in hybrid,mercedes-benz a class. a250e amg line premium plus edition 5dr auto 1.3. 1 previous owner,waterford
+mercedes-benz e class (e220),16432.00,24/07/2024,2015,47073,saloon,automatic,diesel,black mercedes-benz e class. mercedes-benz e e220 2.1 bluetec amg night edition 4dr auto. 1 previous owner,limerick
+mercedes-benz gla class (gla200d),22006.00,25/07/2024,2019,22489,suv,automatic,diesel,red mercedes-benz gla class. 2.1l sport gla200d 5dr,galway
+mercedes-benz c class (amg line),13272.00,26/07/2024,2015,125023,estate,automatic,diesel,black mercedes-benz c class. 2.1 c250 bluetec amg line g-tronic+ euro 6 (s/s) 5dr. 3 previous owners,wexford
+mercedes-benz cls (blueefficiency),7664.00,26/07/2024,2012,161137,saloon,automatic,diesel,grey mercedes-benz cls class. 3.0 cls350 cdi sport amg 4d 265 bhp. 2 previous owners,dublin
+mercedes-benz a class (sport),12694.00,28/07/2024,2016,57314,hatchback,manual,diesel,navy mercedes-benz a class. 1.5 a180d sport (executive) euro 6 (s/s) 5dr. 2 previous owners,dublin
+mercedes-benz m class (ml350 v6),19949.00,2024-07-29,2013,54564,suv,automatic,diesel,red mercedes-benz m-class. 3.0 ml350 bluetec amg sport 5d 258 bhp in iridium silver,dublin
+mercedes-benz gla class (sport),15403.00,2024-07-29,2017,83693,suv,auto,diesel,grey mercedes-benz gla-class. 2.1 gla 220 d 4matic sport 5d 174 bhp new front pads and discs. 2 previous owners,dublin
+mercedes-benz c class (c250d),20886.00,29/07/2024,2017,26021,estate,automatic,diesel,mercedes-benz c class. 2.1l sport c250d 5dr,offaly
+mercedes-benz e class (e220 cdi),7968.00,29/07/2024,2010,99823,estate,automatic,diesel,black mercedes-benz e class. 2.1 e220 cdi blueefficiency avantgarde tiptronic 5dr. 1 previous owner,dublin
+mercedes-benz cla class (cla200),29152.00,30/07/2024,2019,19497,saloon,auto,petrol,black mercedes-benz cla. cla 200 amg line 4dr tip auto leather seats 1.3,meath
+mercedes-benz e class (e250 cdi),8425.00,2024-07-30,2010,89689,coupe,automatic,diesel,grey mercedes-benz e-class. 2.1 e250 cdi blueefficiency sport 2d 204 bhp. 1 previous owner,tipperary
+mercedes-benz s class (se line),16103,30/07/2024,2013,140308,saloon,automatic,diesel,silver mercedes-benz s-class. 3.0 s350 bluetec l se line executive 4d 258 bhp,dublin
+mercedes-benz gla class (gla200 cdi),14441.00,31/07/2024,2015,86631,suv,auto,diesel,silver mercedes-benz gla class. 2.1 gla200 cdi sport 7g-dct euro 6 (s/s) 5dr. 5 previous owners,cork
+mercedes-benz a class (a200d),28531.00,31/07/2024,2021,18642,hatchback,automatic,diesel,red mercedes-benz a class. 2.0 a200d exclusive edition hatchback 5dr diesel 8g-dct euro 6 (s/s) (150 ps). 1 previous owner,kildare
+mercedes-benz e class (amg sport),14334.00,31/07/2024,2013,70379,convertible,automatic,diesel,grey mercedes-benz e class. 2.1 e250 cdi amg sport cabriolet g-tronic+ euro 5 (s/s) 2dr. 3 previous owners,dublin
+mercedes-benz m class (bluetec),15463,02/08/2024,2014,106202,s.u.v.,automatic,diesel,grey mercedes-benz m-class. 3.0 ml350 bluetec amg sport 5d 258 bhp,waterford
+mercedes-benz glc class (glc300de),45039.00,02/08/2024,2020,17703,suv,automatic,diesel plug-in hybrid,red mercedes-benz glc. glc 300de 4matic amg line 5dr 9g-tronic 2.0,wicklow
+mercedes-benz e class (e53 biturbo),46199.00,02/08/2024,2019,30113,estate,auto,petrol,mercedes-benz e class. e53 4matic+ premium plus 5dr 9g-tronic 3.0. 1 previous owner,roscommon
+mercedes-benz gle class (gle350d v6),39117.00,03/08/2024,2016,40423,coupe,automatic,diesel,navy mercedes-benz gle-class. 3.0 gle350d v6 amg line (premium plus) g-tronic 4matic (s/s) 5dr,meath
+mercedes-benz c class (c220d),23431.00,03/08/2024,2017,37073,saloon,automatic,diesel,blue mercedes-benz c class. c 220 d amg line premium plus - 19 inch alloys - pan roof -burmester sound 2.1 4dr,dublin
+mercedes-benz c class (mhev eq boost),27184.00,07/08/2024,2019,15916,saloon,automatic,petrol,blue mercedes-benz c class. 1.5 c200 mhev eq boost amg line (premium) saloon 4dr petrol g-tronic+ euro 6 (s/s) (198 ps). 1 previous owner,dublin
+mercedes-benz cls (amg line),35641.00,07/08/2024,2019,24077,saloon,automatic,diesel,blue mercedes-benz cls. cls 300d amg line 4dr 9g-tronic 2.0,donegal
+mercedes-benz e class (mhev),47221.00,08/08/2024,2022,6073,saloon,automatic,diesel hybrid,red mercedes-benz e class. e300d 4matic amg line premium 4dr 9g-tronic 2.0,tipperary
+mercedes-benz gla class (gla220d),18073.00,09/08/2024,2016,51333,suv,automatic,diesel,red mercedes-benz gla class. 2.1 gla220d amg line 7g-dct 4matic euro 6 (s/s) 5dr. 2 previous owners,dublin
+mercedes-benz m class (ml350 v6),17307.00,09/08/2024,2013,73306,suv,automatic,diesel,silver mercedes-benz m-class. 3.0 ml350 bluetec amg sport 5d auto 258 bhp pan roof-heated seats-re camera,offaly
+mercedes-benz glc class (amg line),35357.00,2024-08-09,2018,30792,coupe,automatic,diesel,blue mercedes-benz glc coupe. glc 250d 4matic amg line prem plus 5dr 9g-tronic 2.1,louth
+mercedes-benz c class (se),4893.00,09/08/2024,2012,123088,estate,manual,diesel,red mercedes-benz c class. 2.1 c220 cdi blueefficiency se euro 5 (s/s) 5dr. 3 previous owners,offaly
+mercedes-benz e class (elegance),4051.00,09/08/2024,2008,111160,saloon,automatic,diesel,black mercedes-benz e class. 2.1 e220 cdi elegance 4dr. 3 previous owners,cork
+mercedes-benz c class (c200),16992.00,09/08/2024,2015,41344,saloon,automatic,petrol,red mercedes-benz c-class. c200 sport +sat nav+ 2.0 4dr,meath
+mercedes-benz e class (blueefficiency),5651.00,10/08/2024,2009,97899,coupe,automatic,diesel,mercedes-benz e class. 3.0 e350 cdi v6 blueefficiency sport g-tronic euro 5 2dr,galway
+mercedes-benz a class (a180),33043.00,10/08/2024,2022,2940,saloon,automatic,petrol,blue mercedes-benz a class. a180 amg line executive edition 4dr auto 1.3,galway
+mercedes-benz e class (e350d v6),16329.00,10/08/2024,2015,87848,convertible,automatic,diesel,black mercedes-benz e-class. 3.0 e350 bluetec amg line 2d 255 bhp ***trusted family run business***,dublin
+mercedes-benz gla class (gla200d),15708.00,10/08/2024,2015,68953,suv,manual,diesel,black mercedes-benz gla-class. 2.1 gla 200 d amg line premium plus 5d 134 bhp 85 point check / mot/ warranty inc,dublin
+mercedes-benz a class (a200),23793.00,10/08/2024,2020,11461,hatchback,manual,petrol,mercedes-benz a-class. a200 amg line 5dr petrol hatchback 1.3,galway
+mercedes-benz e class (amg line),26594.00,11/08/2024,2018,50036,coupe,automatic,petrol,black mercedes-benz e300. 2.0 amg line 2dr,wexford
+mercedes-benz c class (sport),10864.00,11/08/2024,2015,90032,estate,manual,diesel,mercedes-benz c-class. 2.1 c220 bluetec sport 5d 170 bhp + sat nav + leather + history + 6% finance available* + delivery,roscommon
+mercedes-benz gle class (amg line),48092.00,11/08/2024,2019,24871,suv,automatic,diesel,grey mercedes-benz gle. gle 300d 4matic amg line premium 5dr 9g-tronic 2.0,donegal
+mercedes-benz c class (mhev eq boost),25016.00,12/08/2024,2019,31156,saloon,automatic,petrol,blue mercedes-benz c class. 1.5l amg line mhev eq boost c200 4dr,dublin
+mercedes-benz gle class (amg line),56490.00,2024-08-12,2019,36910,suv,automatic,diesel,grey mercedes-benz gle diesel estate. gle 400d 4matic amg line prem + 5dr 9g-tron [7 st] 2.9. 1 previous owner,louth
+mercedes-benz e class (amg line),22592,14/08/2024,2017,50041,saloon,automatic,diesel,"red mercedes-benz e-class. 2.0 e 220 d amg line premium 4d auto 192 bhp - pan roof, sat nav, privacy. 2 previous owners",dublin
+mercedes-benz gla class (gla45),31418.00,2024-08-14,2018,28086,suv,automatic,petrol,blue mercedes-benz gla-class. 2.0 gla45 amg 4matic 5d 360 bhp amg exhaust / aerokit / 20-inch. 2 previous owners,carlow
+mercedes-benz a class (a200d),19290.00,15/08/2024,2018,32954,hatchback,automatic,diesel,grey mercedes-benz a class. a200d amg line premium 5dr auto 2.1,carlow
+mercedes-benz glc class (amg line),28428.00,16/08/2024,2018,42026,suv,automatic,diesel,black mercedes-benz glc class. 2.1 glc250d amg line (premium) g-tronic+ 4matic euro 6 (s/s) 5dr,dublin
+mercedes-benz e class (amg line),26143.00,16/08/2024,2017,60729,estate,automatic,diesel,red mercedes-benz e class. 2.0 e220d amg line (premium plus) g-tronic+ 4matic euro 6 (s/s) 5dr. 2 previous owners,cork
+mercedes-benz a class (a200d),13848.00,16/08/2024,2017,45169,hatchback,manual,diesel,silver mercedes-benz a class. 2.1 a200d se euro 6 (s/s) 5dr,tipperary
+mercedes-benz glc class (glc220d),37265.00,17/08/2024,2019,35514,suv,automatic,diesel,grey mercedes-benz glc diesel estate. glc 220d 4matic amg line premium 5dr 9g-tronic 2.0. 1 previous owner,dublin
+mercedes-benz a class (a180),14907.00,17/08/2024,2016,38086,hatchback,manual,petrol,mercedes-benz a-class. 1.6 a 180 amg line 5d 121 bhp. 2 previous owners,dublin
+mercedes-benz gla class (amg line),22474.00,18/08/2024,2017,29084,suv,automatic,diesel,grey mercedes-benz gla-class. 2.1 gla 220 d 4matic amg line premium 5d 174 bhp major service @21k|1 former keeper,cork
+mercedes-benz gle class (gle350d v6),38085.00,19/08/2024,2018,77212,coupe,automatic,diesel,navy mercedes-benz gle class. 3.0 gle350d v6 amg night edition (premium plus) g-tronic 4matic euro 6 (s/s) 5dr. 2 previous owners,cork
+mercedes-benz a class (a200),27493.00,19/08/2024,2020,12337,hatchback,manual,petrol,red mercedes-benz a class. a200 amg line 5dr 1.3,cavan
+mercedes-benz a class (a35),36556.00,19/08/2024,2019,23004,hatchback,automatic,petrol,blue mercedes-benz a class amg hatchback. a35 4matic premium plus 5dr auto 2.0. 3 previous owners,dublin
+mercedes-benz glc class (glc250d),31897.00,19/08/2024,2019,57020,suv,automatic,diesel,mercedes-benz glc class. glc 250 d 4matic amg line 2.1 5dr,wexford
+mercedes-benz glc class (glc250d),30726.00,19/08/2024,2018,31170,suv,automatic,diesel,grey mercedes-benz glc. glc 250d 4matic amg line premium 5dr 9g-tronic leather seats 2.1,cavan
+mercedes-benz a class (sport),16658.00,21/08/2024,2016,31973,hatchback,automatic,petrol,black mercedes-benz a class. 1.6 a180 sport (premium) 7g-dct euro 6 (s/s) 5dr. 1 previous owner,dublin
+mercedes-benz cla class (cla220d),29901.00,22/08/2024,2020,30609,saloon,automatic,diesel,black mercedes-benz cla. cla 220d amg line 4dr tip auto 2.0. 2 previous owners,roscommon
+mercedes-benz c class (mhev eq boost),26178.00,2024-08-23,2020,15849,saloon,automatic,petrol,grey mercedes-benz c-class. c200 sport premium 4dr 9g-tronic leather seats 1.5,donegal
+mercedes-benz cla class (cla220d),18581.00,23/08/2024,2017,62943,saloon,automatic,diesel,red mercedes-benz cla class. 2.1 cla220d amg line coupe 4dr diesel 7g-dct euro 6 (s/s) (177 ps),dublin
+mercedes-benz e class (sport),9049,25/08/2024,2012,58013,coupe,automatic,diesel,black mercedes-benz e class. 2.1 e220 cdi blueefficiency sport g-tronic+ euro 5 (s/s) 2dr. 3 previous owners,donegal
+mercedes-benz a class (a250),26948.00,26/08/2024,2021,64853,hatchback,automatic,petrol,red mercedes-benz a class. a250 amg line premium plus 5dr auto 2.0. 2 previous owners,cork
+mercedes-benz c class (c200),28307.00,26/08/2024,2020,26267,saloon,automatic,petrol,black mercedes-benz c class. c 200 sedan 1.5 4dr,galway
+mercedes-benz c class (c43 v6),32729,27/08/2024,2017,34989,coupe,automatic,petrol,black mercedes-benz c class. 3.0 c43 v6 amg (premium plus) coupe 2dr petrol g-tronic+ 4matic euro 6 (s/s) (367 ps). 2 previous owners,cavan
+mercedes-benz e class (e250 cdi),11397.00,27/08/2024,2013,75500,coupe,automatic,diesel,black mercedes-benz e class. 2.1 e250 cdi amg sport g-tronic+ euro 5 (s/s) 2dr,galway
+mercedes-benz a class (a180d),15718.00,28/08/2024,2016,28479,hatchback,manual,diesel,black mercedes-benz a-class. 1.5 a180 d amg line 5dr. 1 previous owner,dublin
+mercedes-benz a class (a180d),15510,2024-08-29,2017,53148,hatchback,manual,diesel,mercedes-benz a class. a180d sport premium 5dr 1.5. 2 previous owners,kildare
+mercedes-benz glb class (amg line),33820.00,30/08/2024,2021,8265,suv,automatic,petrol,silver mercedes-benz glb class. 1.3 glb200 amg line g-tronic euro 6 (s/s) 5dr (7 seat). 1 previous owner,kerry
+mercedes-benz a class (amg sport),11974.00,31/08/2024,2014,60183,hatchback,manual,diesel,red mercedes-benz a class. 1.5 a180 cdi blueefficiency amg sport euro 5 (s/s) 5dr. 3 previous owners,leitrim
+mercedes-benz gla class (gla250),15386.00,01/09/2024,2014,80394,suv,automatic,petrol,blue mercedes-benz gla class. 2.0 gla250 amg line (premium plus) 7g-dct 4matic 5dr,wexford
+mercedes-benz c class (amg line),20859.00,01/09/2024,2016,35806,saloon,automatic,diesel,grey mercedes-benz c-class. 2.1 c220 d amg line premium 4d 170 bhp. 2 previous owners,tipperary
+mercedes-benz gle class (gle350d v6),45171.00,01/09/2024,2018,26387,coupe,automatic,diesel,grey mercedes-benz gle class. 3.0 gle350d v6 amg night edition (premium plus) coupe 5dr diesel g-tronic+ 4matic euro 6 (s/s) (258 ps). 2 previous owners,cork
+mercedes-benz gla class (gla200),28497.00,02/09/2024,2020,16331,suv,automatic,petrol,blue mercedes-benz gla class. 1.6 gla200 amg line edition (plus) 7g-dct euro 6 (s/s) 5dr,cork
+mercedes-benz cla class (amg line),37606.00,2024-09-03,2022,3737,saloon,automatic,petrol,navy mercedes-benz cla class. 1.3 cla200 amg line (premium plus 2) coupe 7g-dct euro 6 (s/s) 4dr. 2 previous owners,leitrim
+mercedes-benz glc class (amg line),40668.00,04/09/2024,2019,17306,coupe,automatic,petrol,grey mercedes-benz glc coupe. glc 250 4matic amg line premium plus 5dr 9g-tronic 2.0,dublin
+mercedes-benz amg gt (v8 biturbo),113403.00,05/09/2024,2018,13013,coupe,automatic,petrol,navy mercedes-benz amg gt. 4.0 v8 biturbo gpf r (premium) spds dct euro 6 (s/s) 2dr,cork
+mercedes-benz a class (se),13530.00,05/09/2024,2016,26110,hatchback,manual,petrol,blue mercedes-benz a class. 1.6 a180 se euro 6 (s/s) 5dr,cavan
+mercedes-benz m class (ml350 v6),18260.00,06/09/2024,2014,85252,suv,automatic,diesel,mercedes-benz m class. 3.0 ml350 v6 bluetec amg sport g-tronic 4wd euro 6 (s/s) 5dr. 3 previous owners,wexford
+mercedes-benz glc class (amg line),18097.00,06/09/2024,2017,142376,suv,automatic,diesel,blue mercedes-benz glc class. 2.1 glc250d amg line (premium) g-tronic 4matic euro 6 (s/s) 5dr. 3 previous owners,dublin
+mercedes-benz e class (e220),18008.00,07/09/2024,2016,39282,estate,automatic,diesel,grey mercedes-benz e-class. e220 bluetec amg night edition 5dr 7g-tronic leather seats 2.1,cork
+mercedes-benz e class (e220d),21069.00,08/09/2024,2018,50791,saloon,automatic,diesel,red mercedes-benz e class. e220d se 4dr 9g-tronic - heated leather - electric seats - dab 2.0,donegal
+mercedes-benz cla class (amg line),17821.00,09/09/2024,2016,62366,saloon,automatic,diesel,blue mercedes-benz cla class. cla 220d amg line 4matic 4dr tip auto 2.1. 2 previous owners,kilkenny
+mercedes-benz a class (a180),14398.00,09/09/2024,2015,44275,hatchback,automatic,petrol,blue mercedes-benz a class. 1.6 a180 sport (premium) 7g-dct euro 6 (s/s) 5dr. 2 previous owners,dublin
+mercedes-benz e class (e400d),33488.00,2024-09-09,2019,42328,saloon,automatic,diesel,blue mercedes-benz e class. 2.9 e400d amg line (premium plus) g-tronic+ 4matic euro 6 (s/s) 4dr,dublin
+mercedes-benz c class (c220d),24405.00,2024-09-09,2019,77174,convertible,automatic,diesel,blue mercedes-benz c class. 2.0 c220d amg line cabriolet g-tronic+ euro 6 (s/s) 2dr. 1 previous owner,dublin
+mercedes-benz c class (c200d),20162.00,2024-09-09,2019,10870,saloon,manual,diesel,navy mercedes-benz c class. c200d se 4dr 1.6,kerry
+mercedes-benz e class (amg line),27313.00,09/09/2024,2018,35335,saloon,automatic,petrol,blue mercedes-benz e class. 2.0 e200 amg line (premium) g-tronic+ euro 6 (s/s) 4dr,westmeath
+mercedes-benz gle class (gle400d),60212.00,10/09/2024,2021,22321,suv,automatic,diesel,silver mercedes-benz gle class. 2.9 gle400d amg line (premium plus) g-tronic 4matic euro 6 (s/s) 5dr (7 seat),meath
+mercedes-benz glc class (glc43 v6),48872.00,2024-09-11,2019,2097,coupe,auto,petrol,silver mercedes-benz glc class. 3.0 glc43 v6 amg coupe 5dr petrol g-tronic+ 4matic euro 6 (s/s) (390 ps),wexford
+mercedes-benz gla class (gla45),34396.00,11/09/2024,2018,41882,suv,automatic,petrol,mercedes-benz gla-class. mercedes-amg gla 45 4matic 2.0 5dr,meath
+mercedes-benz glc class (glc300h),50294.00,11/09/2024,2022,8179,suv,automatic,petrol hybrid,red mercedes-benz glc. 300 4matic amg line premium 5dr 9g-tronic petrol estate 2.0,waterford
+mercedes-benz cla class (cla200),29922,12/09/2024,2020,11010,estate,automatic,petrol,blue mercedes-benz cla class. cla 200 amg line 5dr tip auto 1.3. 1 previous owner,limerick
+mercedes-benz e class (e350d v6),21868.00,2024-09-12,2017,59035,saloon,automatic,diesel,black mercedes-benz e class. 3.0 e350d v6 amg line g-tronic+ euro 6 (s/s) 4dr,kilkenny
+mercedes-benz g class (g63 v8 biturbo),205433.00,2024-09-13,2021,3538,suv,automatic,petrol,blue mercedes-benz g class. 4.0 g63 v8 biturbo amg spds+9gt 4wd euro 6 (s/s) 5dr,dublin
+mercedes-benz a class (a250),28227.00,13/09/2024,2019,8754,hatchback,automatic,petrol,black mercedes-benz a class. a250 amg line premium 5dr auto 2.0. 1 previous owner,limerick
+mercedes-benz m class (bluetec),16817.00,15/09/2024,2013,89467,suv,auto,diesel,mercedes-benz m-class. 3.0 ml350 bluetec amg sport 5d 258 bhp ***trusted family run business***,dublin
+mercedes-benz a class (a180),19701.00,15/09/2024,2019,26967,hatchback,manual,petrol,mercedes-benz a class. 1.3l sport a180 5dr,dublin
+mercedes-benz e class (e220d),27634.00,16/09/2024,2018,23184,convertible,automatic,diesel,black mercedes-benz e class. 2.0 e220d amg line (premium) cabriolet g-tronic+ euro 6 (s/s) 2dr. 3 previous owners,limerick
+mercedes-benz eqc (sport),60137.00,16/09/2024,2021,6907,suv,automatic,electric,blue mercedes-benz eqc. eqc 400 300kw sport 80kwh 5dr auto. 1 previous owner,mayo
+mercedes-benz e class (amg line),25352.00,18/09/2024,2017,26335,saloon,automatic,diesel,blue mercedes-benz e class. 3.0 e350d v6 amg line g-tronic+ euro 6 (s/s) 4dr. 1 previous owner,mayo
+mercedes-benz gle class (amg s),40195,21/09/2024,2016,76858,suv,automatic,petrol,black mercedes-benz gle class. 5.5 gle63 v8 amg s (premium) spds+7gt 4matic euro 6 (s/s) 5dr. 4 previous owners,dublin
+mercedes-benz c class (c250d),17806.00,21/09/2024,2018,88415,saloon,automatic,diesel,silver mercedes-benz c class. 2.1 c250d sport (premium) g-tronic+ euro 6 (s/s) 4dr,dublin
+mercedes-benz c class (se),3188.00,23/09/2024,2008,86638,coupe,automatic,petrol,grey mercedes-benz c-class. 1.8 c180 kompressor se sports 3d 141 bhp priced to sell quickly,wexford
+mercedes-benz e class (e53h biturbo),64590.00,25/09/2024,2022,7497,estate,automatic,petrol hybrid,black mercedes-benz e class amg estate. e53 4matic+ night edition prem+ 5dr tct 3.0. 1 previous owner,galway
+mercedes-benz e class (e300),38114.00,26/09/2024,2020,15043,coupe,automatic,petrol,red mercedes-benz e-class coupe. e 300 amg line premium 2.0 2dr. 1 previous owner,limerick
+mercedes-benz e class (se),14446.00,27/09/2024,2016,115083,saloon,automatic,diesel,black mercedes-benz e class. 2.0 e220d se g-tronic+ euro 6 (s/s) 4dr. 3 previous owners,galway
+mercedes-benz gle class (mhev),70218.00,27/09/2024,2022,7555,suv,automatic,petrol hybrid,blue mercedes-benz gle. 53 4matic+ premium 5dr 9g-tronic [7 seats] petrol estate 3.0,tipperary
+mercedes-benz e class (e400d),34540.00,27/09/2024,2019,44112,saloon,automatic,diesel,black mercedes-benz e class. e400d 4matic amg line premium plus 4dr 9g-tronic 2.9,dublin
+mercedes-benz cla class (amg sport),11834.00,28/09/2024,2014,40303,saloon,manual,petrol,black mercedes-benz cla class. 1.6 cla180 amg sport coupe euro 6 (s/s) 4dr. 3 previous owners,dublin
+mercedes-benz e class (se),13220,28/09/2024,2014,39336,saloon,automatic,diesel,navy mercedes-benz e-class. 2.1 e250 cdi se 4 door diesel silver 1 owner full heated leather bluetooth+cruise+satnav+usb+dab. 2 previous owners,meath
+mercedes-benz gle class (amg line),37360.00,2024-09-29,2017,46100,coupe,automatic,diesel,black mercedes-benz gle coupe. gle 350d 4matic amg line premium plus 5dr 9g-tron 3.0. 3 previous owners,waterford
+mercedes-benz c class (amg sport plus),7255.00,29/09/2024,2012,74219,coupe,automatic,diesel,grey mercedes-benz c class. 2.1 c220 cdi blueefficiency amg sport plus g-tronic+ euro 5 (s/s) 2dr. 2 previous owners,dublin
+mercedes-benz s class (s63 v8),50416.00,30/09/2024,2014,57029,coupe,automatic,petrol,blue mercedes-benz s class. 5.5 s63 v8 amg spds mct euro 6 (s/s) 2dr. 3 previous owners,dublin
+mercedes-benz gls class (gls350d v6),48260.00,30/09/2024,2018,41404,suv,automatic,diesel,red mercedes-benz gls class. 3.0 gls350d v6 amg line g-tronic 4matic euro 6 (s/s) 5dr. 2 previous owners,meath
+mercedes-benz a class (a35),36665.00,30/09/2024,2019,11978,hatchback,automatic,petrol,mercedes-benz a-class. a35 4matic premium plus 5dr auto petrol hatchback 2.0,louth
+mercedes-benz cla class (cla35),42798.00,2024-10-01,2020,14458,estate,automatic,petrol,black mercedes-benz cla class. mercedes-amg cla 35 4matic shooting brake 2.0 5dr. 1 previous owner,carlow
+mercedes-benz e class (e63 v8 biturbo),70698.00,01/10/2024,2019,30332,saloon,automatic,petrol,mercedes-benz e class. 4.0 e63 v8 biturbo amg s spds mct 4matic+ euro 6 (s/s) 4dr. 4 previous owners,waterford
+mercedes-benz slc (slc180),22131.00,01/10/2024,2019,15241,convertible,manual,petrol,grey mercedes-benz slc. 1.6l amg line slc180 2dr,cork
+mercedes-benz c class (c63 v8 biturbo),72137.00,01/10/2024,2021,14585,coupe,automatic,petrol,black mercedes-benz c class. 4.0 c63 v8 biturbo amg s (premium plus) spds mct euro 6 (s/s) 2dr,limerick
+mercedes-benz a class (amg sport),12864.00,01/10/2024,2012,58940,hatchback,automatic,petrol,navy mercedes-benz a class. 1.6 a200 blueefficiency amg sport 7g-dct euro 6 (s/s) 5dr. 3 previous owners,galway
+mercedes-benz c class (bluetec),15221.00,02/10/2024,2015,95755,estate,auto,diesel,mercedes-benz c-class. 2.1 c220 bluetec amg line 5d 170 bhp euro 6+hpi clear,kildare
+mercedes-benz a class (amg line),13773,2024-10-04,2016,91519,hatchback,automatic,diesel,blue mercedes-benz a class. 2.1 a200d amg line (premium) 7g-dct euro 6 (s/s) 5dr. 2 previous owners,dublin
+mercedes-benz a class (a180),30350.00,04/10/2024,2020,13784,saloon,automatic,petrol,black mercedes-benz a class. a180 amg line premium plus 4dr auto 1.3. 2 previous owners,wexford
+mercedes-benz cla class (cla220d),20425.00,2024-10-04,2017,49572,saloon,automatic,diesel,red mercedes-benz cla class. 2.1 cla220d amg line coupe 7g-dct euro 6 (s/s) 4dr,dublin
+mercedes-benz c class (amg line),14105.00,06/10/2024,2014,98645,saloon,automatic,diesel,silver mercedes-benz c class. 2.1 c250 bluetec amg line g-tronic+ euro 6 (s/s) 4dr. 1 previous owner,dublin
+mercedes-benz c class (c63 v8 biturbo),47765.00,07/10/2024,2018,13057,coupe,automatic,petrol,navy mercedes-benz c class. c63 premium 2dr auto 4.0. 3 previous owners,galway
+mercedes-benz c class (amg line),14174,07/10/2024,2015,109132,estate,automatic,diesel,mercedes-benz c class. 2.1 c220 bluetec amg line g-tronic+ euro 6 (s/s) 5dr. 4 previous owners,dublin
+mercedes-benz c class (c300),28684.00,07/10/2024,2018,28613,saloon,automatic,petrol,red mercedes-benz c class. 2.0 c300 amg line (premium plus) g-tronic+ euro 6 (s/s) 4dr. 1 previous owner,dublin
+mercedes-benz c class (amg line),19208.00,08/10/2024,2017,42898,estate,automatic,diesel,black mercedes-benz c class. 2.1 c220d amg line g-tronic+ euro 6 (s/s) 5dr. 1 previous owner,cork
+mercedes-benz e class (e220 cdi),6049.00,09/10/2024,2012,155033,saloon,automatic,diesel,black mercedes-benz e class. 2.1 e220 cdi blueefficiency avantgarde g-tronic+ euro 5 (s/s) 4dr. 1 previous owner,dublin
+mercedes-benz e class (sport),35268.00,09/10/2024,2021,19060,saloon,automatic,petrol hybrid,navy mercedes-benz e class. 2.0 e200h mhev sport g-tronic+ euro 6 (s/s) 4dr,cork
+mercedes-benz c class (c220),16822.00,10/10/2024,2015,67044,saloon,automatic,diesel,mercedes-benz c class. c220 bluetec amg line 4dr auto 2.1,limerick
+mercedes-benz e class (sport),8834.00,12/10/2024,2010,99714,convertible,automatic,diesel,navy mercedes-benz e class. 3.0 e350 cdi v6 blueefficiency sport cabriolet auto 2dr,dublin
+mercedes-benz c class (c220d),10149.00,2024-10-12,2015,136275,saloon,auto,diesel,blue mercedes-benz c class. 2.1 c220d sport 7g-tronic+ euro 6 (s/s) 4dr. 3 previous owners,dublin
+mercedes-benz cls (amg line),42897.00,12/10/2024,2020,11268,saloon,automatic,diesel,black mercedes-benz cls-class. cls 300 d 2.0 4dr,meath
+mercedes-benz gla class (gla200d),20172.00,12/10/2024,2017,37127,suv,manual,diesel,blue mercedes-benz gla-class. 2.1 gla 200 d whiteart 5d 134 bhp. 2 previous owners,dublin
+mercedes-benz c class (c200d),18944.00,12/10/2024,2017,53013,saloon,automatic,diesel,grey mercedes-benz c-class. 1.6 c200 d amg line 4d 136 bhp rear view camera plus sensors,cork
+mercedes-benz c class (amg sport),9095.00,13/10/2024,2011,104424,coupe,automatic,petrol,grey mercedes-benz c class. 1.8 c250 blueefficiency amg sport g-tronic+ euro 5 (s/s) 2dr,dublin
+mercedes-benz e class (e350d v6),27450.00,13/10/2024,2018,39795,saloon,automatic,diesel,black mercedes-benz e class. 3.0 e350d v6 amg line (premium) g-tronic+ euro 6 (s/s) 4dr. 4 previous owners,dublin
+mercedes-benz c class (c350e),16412.00,13/10/2024,2016,85009,estat,automatic,petrol plug-in hybrid,grey mercedes-benz c class. c350e sport 5dr auto 2.0. 2 previous owners,limerick
+mercedes-benz e class (e220 cdi),7889.00,14/10/2024,2013,137453,saloon,auto,diesel,grey mercedes-benz e class. 2.1 e220 cdi se g-tronic+ euro 5 (s/s) 4dr. 3 previous owners,dublin
+mercedes-benz a class (a200d),16217.00,15/10/2024,2016,39903,hatchback,automatic,diesel,mercedes-benz a class. mercedes-benz a a200d 2.1 amg line 5dr auto. 4 previous owners,cork
+mercedes-benz s class (mhev),99138.00,17/10/2024,2021,12060,saloon,automatic,petrol hybrid,mercedes-benz s class. s500l 4matic amg line prem + exec 4dr 9g-tronic 3.0,dublin
+mercedes-benz c class (c350 cdi v6),11639.00,17/10/2024,2013,92808,saloon,automatic,diesel,blue mercedes-benz c-class. 3.0 c350 cdi blueefficiency amg sport plus 4d 262 bhp,cork
+mercedes-benz clc class (sport),4639.00,19/10/2024,2008,84028,hatchback,automatic,diesel,silver mercedes-benz clc class. 2.1 clc220 cdi sport coupe 3dr diesel auto euro 4 (150 ps). 2 previous owners,kildare
+mercedes-benz cla class (amg line),19099.00,19/10/2024,2018,38400,saloon,automatic,petrol,black mercedes-benz cla class. 1.6 cla180 amg line coupe 7g-dct euro 6 (s/s) 4dr,cork
+mercedes-benz e class (amg line),16166.00,19/10/2024,2015,86365,convertible,automatic,diesel,silver mercedes-benz e class. 2.1 e250 cdi amg line cabriolet g-tronic+ euro 5 (s/s) 2dr,meath
+mercedes-benz e class (e220d),16256.00,19/10/2024,2017,100174,saloon,automatic,diesel,black mercedes-benz e class. 2.0 e220d se g-tronic+ euro 6 (s/s) 4dr. 3 previous owners,sligo
+mercedes-benz glc class (glc63 v8 biturbo),71530.00,20/10/2024,2020,18689,coupe,auto,petrol,silver mercedes-benz glc coupe. glc 63 s 4matic+ premium plus 5dr mct 4.0,waterford
+mercedes-benz e class (amg sport),11611.00,21/10/2024,2013,71187,coupe,automatic,diesel,red mercedes-benz e class. 2.1 e250 cdi amg sport g-tronic+ euro 5 (s/s) 2dr. 4 previous owners,kerry
+mercedes-benz c class (c220),13383.00,21/10/2024,2014,85182,estate,automatic,diesel,red mercedes-benz c class. 2.1 c220 bluetec sport g-tronic+ euro 6 (s/s) 5dr. 2 previous owners,waterford
+mercedes-benz s class (amg s),62595.00,23/10/2024,2016,30325,convertible,automatic,petrol,blue mercedes-benz s class. 5.5 s63 v8 amg s cabriolet spds mct euro 6 (s/s) 2dr,meath
+mercedes-benz a class (a45),52352.00,23/10/2024,2020,15461,hatchback,auto,petrol,red mercedes-benz a class. 2.0 a45 amg s plus 8g-dct 4matic+ euro 6 (s/s) 5dr. 2 previous owners,galway
+mercedes-benz c class (c250 cdi),4643.00,2024-10-23,2009,117427,saloon,automatic,diesel,red mercedes-benz c class. 2.1 c250 cdi blueefficiency sport auto euro 5 4dr. 5 previous owners,donegal
+mercedes-benz m class (bluetec),22870.00,24/10/2024,2015,65915,suv,automatic,diesel,blue mercedes-benz m class. 3.0 ml350 v6 bluetec amg line g-tronic 4wd euro 6 (s/s) 5dr,cork
+mercedes-benz eqb (eqb 300),56367.00,24/10/2024,2022,3309,suv,automatic,electric,red mercedes-benz eqb estate. eqb 300 4matic 168kw amg line 66.5kwh 5dr auto. 1 previous owner,kildare
+mercedes-benz c class (se),5351,26/10/2024,2008,70035,saloon,automatic,petrol,silver mercedes-benz c class. 1.8 c180k se auto euro 4 4dr,cork
+mercedes-benz gla class (gla220d),18600.00,27/10/2024,2016,39619,suv,auto,diesel,black mercedes-benz gla class. gla 220 d 4matic amg line 2.1 5dr,limerick
+mercedes-benz a class (amg sport),8182.00,2024-10-27,2014,144784,hatchback,automatic,diesel,grey mercedes-benz a class. 1.5 a180 cdi amg sport 7g-dct euro 5 (s/s) 5dr. 3 previous owners,dublin
+mercedes-benz gle class (amg line),47824.00,2024-10-27,2020,37399,suv,automatic,diesel,blue mercedes-benz gle. gle 300d 4matic amg line premium 5dr 9g-tronic 2.0. 1 previous owner,westmeath
+mercedes-benz e class (e220d),27144.00,28/10/2024,2018,28118,saloon,automatic,diesel,black mercedes-benz e class. 2.0 e220d se g-tronic+ euro 6 (s/s) 4dr. 2 previous owners,meath
+mercedes-benz c class (se),13813.00,28/10/2024,2016,68819,saloon,automatic,diesel,mercedes-benz c class. 2.1l se c220d 4dr,kildare
+mercedes-benz e class (mhev eq boost),45163.00,28/10/2024,2019,31073,estate,automatic,petrol,blue mercedes-benz e class. e53 4matic+ premium plus 5dr 9g-tronic 3.0. 1 previous owner,dublin
+mercedes-benz a class (a200),23197.00,29/10/2024,2020,28008,hatchback,manual,petrol,black mercedes-benz a class. a200 amg line 5dr 1.3. 1 previous owner,waterford
+mercedes-benz a class (sport),19430.00,30/10/2024,2018,25919,hatchback,automatic,petrol,grey mercedes-benz a class. 1.3l sport a200 5dr,galway
+mercedes-benz c class (blueefficiency),6221.00,30/10/2024,2012,162047,estate,automatic,diesel,red mercedes-benz c-class. 2.1 c220 cdi blueefficiency sport 5d 168 bhp great specification - automatic,dublin
+mercedes-benz g class (bluetec),44836.00,31/10/2024,2013,92073,suv,automatic,diesel,blue mercedes-benz g class. 3.0 g350 v6 bluetec g-tronic 4wd euro 5 5dr. 5 previous owners,mayo
+mercedes-benz cla class (amg line),37698.00,31/10/2024,2021,11798,saloon,automatic,petrol plug-in hybrid,red mercedes-benz cla class. cla 250 e coupe 1.3 4dr,waterford
+mercedes-benz g class (amg edition 1),165265.00,2024-11-02,2018,59870,suv,automatic,petrol,navy mercedes-benz g class. 4.0 g63 v8 biturbo amg edition 1 spds+9gt 4wd euro 6 (s/s) 5dr. 1 previous owner,dublin
+mercedes-benz glc class (mhev),51198,03/11/2024,2021,5089,coupe,automatic,petrol hybrid,red mercedes-benz glc coupe. glc 300 4matic amg line premium 5dr 9g-tronic 2.0,cork
+mercedes-benz c class (amg sport),13603.00,04/11/2024,2012,64685,coupe,automatic,petrol,black mercedes-benz c class. 1.6 c180 blueefficiency amg sport 7g-tronic plus 2dr. 2 previous owners,leitrim
+mercedes-benz e class (e220 cdi),12636.00,2024-11-04,2014,55727,coupe,automatic,diesel,silver mercedes-benz e class. 2.1 e220 cdi amg sport 7g-tronic plus 2dr,mayo
+mercedes-benz e class (e220d),17456.00,04/11/2024,2016,63225,saloon,automatic,diesel,navy mercedes-benz e class. 2.0 e220d amg line g-tronic+ euro 6 (s/s) 4dr,kildare
+mercedes-benz a class (amg sport),10492.00,2024-11-04,2014,89211,hatchback,manual,diesel,red mercedes-benz a-class. 2.1 a200 cdi amg sport 5d 136 bhp with 3 month warranty included,cork
+mercedes-benz e class (blueefficiency),6269.00,05/11/2024,2009,113724,saloon,automatic,diesel,silver mercedes-benz e class. 2.1 e250 cdi blueefficiency sport auto 4dr. 3 previous owners,dublin
+mercedes-benz c class (c220d),14826.00,2024-11-05,2016,92456,coupe,automatic,diesel,red mercedes-benz c class. 2.1 c220d amg line g-tronic+ euro 6 (s/s) 2dr. 2 previous owners,cork
+mercedes-benz m class (amg line),20295.00,06/11/2024,2014,76322,suv,automatic,diesel,red mercedes-benz m class. 3.0 ml350 v6 bluetec amg line g-tronic 4wd euro 6 (s/s) 5dr. 4 previous owners,dublin
+mercedes-benz glc class (glc220d),25097.00,2024-11-06,2018,52459,suv,automatic,diesel,navy mercedes-benz glc class. 2.1 glc220d amg line g-tronic+ 4matic (s/s) 5dr,kildare
+mercedes-benz e class (e220d),26957.00,08/11/2024,2018,36796,saloon,automatic,diesel,black mercedes-benz e class diesel saloon. e220d se 4dr 9g-tronic 2.0. 1 previous owner,kildare
+mercedes-benz a class (amg sport),13713.00,09/11/2024,2015,54454,hatchback,automatic,diesel,black mercedes-benz a class. 2.1 a200 cdi amg sport 7g-dct euro 6 (s/s) 5dr,kildare
+mercedes-benz cla class (cla220d),18090.00,09/11/2024,2016,63214,saloon,automatic,diesel,grey mercedes-benz cla. 2.1 cla 220 d amg line 4d 174 bhp ***great finance available***,monaghan
+mercedes-benz c class (amg line),15769.00,09/11/2024,2015,82367,estate,automatic,diesel,red mercedes-benz c-class. 2.1 c220 bluetec amg line premium plus 5d 170 bhp. 2 previous owners,mayo
+mercedes-benz gle class (amg line),23443.00,09/11/2024,2016,66202,suv,automatic,diesel,navy mercedes-benz gle class. 2.1 gle250d amg line g-tronic 4matic euro 6 (s/s) 5dr,wexford
+mercedes-benz e class (blueefficiency),9243.00,11/11/2024,2012,53610,coupe,automatic,diesel,grey mercedes-benz e class. 2.1 e250 cdi blueefficiency sport g-tronic 2dr. 2 previous owners,dublin
+mercedes-benz c class (s final edition),120476,11/11/2024,2022,397,coupe,automatic,petrol,silver mercedes-benz c class. 4.0 c63 v8 biturbo amg s final edition spds mct euro 6 (s/s) 2dr,dublin
+mercedes-benz a class (amg line),17081.00,12/11/2024,2018,30915,hatchback,manual,petrol,black mercedes-benz a-class. 1.6 a 160 amg line 5d 102 bhp national delivery available. 1 previous owner,wexford
+mercedes-benz e class (sport edition 125),5789.00,13/11/2024,2012,105882,coupe,automatic,diesel,red mercedes-benz e class. 2.1 e250 cdi blueefficiency sport edition 125 7g-tronic plus (s/s) 2dr,dublin
+mercedes-benz c class (nightfall edition),26888,14/11/2024,2018,21198,coupe,automatic,diesel,mercedes-benz c-class. 2.1 c 220 d nightfall edition premium 2d auto 168 bhp,tipperary
+mercedes-benz e class (amg line),20267.00,16/11/2024,2018,90223,saloon,automatic,diesel,grey mercedes-benz e class. 2.0 e220d amg line saloon 4dr diesel g-tronic+ euro 6 (s/s) (194 ps). 3 previous owners,meath
+mercedes-benz gle class (gle450h),56023.00,16/11/2024,2019,19116,suv,automatic,petrol,blue mercedes-benz gle class. 3l amg line mhev gle450h 5dr,cavan
+mercedes-benz c class (c200),25015,16/11/2024,2018,36716,coupe,automatic,petrol,mercedes-benz c class. 2l amg line c200 2dr,tipperary
+mercedes-benz c class (mhev eq boost),22981.00,16/11/2024,2018,21247,saloon,automatic,petrol,mercedes-benz c class. c200 se 4dr 9g-tronic 1.5,donegal
+mercedes-benz e class (sport),10537.00,16/11/2024,2012,82571,convertible,automatic,petrol,grey mercedes-benz e class. 1.8 e200 blueefficiency sport cabriolet 2dr petrol g-tronic+ euro 5 (s/s) (184 ps). 3 previous owners,sligo
+mercedes-benz glc class (sport),25384.00,2024-11-18,2016,51096,suv,automatic,diesel,blue mercedes-benz glc class. 2.1l sport glc250d 5dr,roscommon
+mercedes-benz glc class (glc43 v6),40365.00,18/11/2024,2018,28571,coupe,automatic,petrol,grey mercedes-benz glc class. 3.0 glc43 v6 amg (premium) coupe 5dr petrol g-tronic 4matic euro 6 (s/s) (367 ps),dublin
+mercedes-benz glc class (glc220d),46156.00,2024-11-18,2022,8858,suv,automatic,diesel,navy mercedes-benz glc. glc 220d 4matic amg line premium 5dr 9g-tronic 2.0. 1 previous owner,leitrim
+mercedes-benz gla class (se),16787.00,18/11/2024,2014,32135,suv,manual,diesel,silver mercedes-benz gla-class. gla 200 cdi se 2.1 5dr,kerry
+mercedes-benz c class (c220d),16776.00,20/11/2024,2016,85433,estate,automatic,diesel,grey mercedes-benz c-class. 2.1l c220 d amg line premium 5d auto 170 bhp,cork
+mercedes-benz e class (sport),11364,20/11/2024,2011,79918,convertible,automatic,diesel,mercedes-benz e class. e350 3.0 cdi blueefficiency amg sport air scarf heated leather seats 2dr. 3 previous owners,cork
+mercedes-benz c class (c220 cdi),9383,21/11/2024,2012,89279,coupe,automatic,diesel,blue mercedes-benz c class. 2.1 c220 cdi blueefficiency amg sport g-tronic+ euro 5 (s/s) 2dr. 4 previous owners,sligo
+mercedes-benz a class (a200d),26876,21/11/2024,2021,15109,saloon,automatic,diesel,mercedes-benz a class. a200d amg line executive 4dr auto 2.0. 1 previous owner,kildare
+mercedes-benz c class (c43 v6),29411.00,2024-11-23,2017,30422,saloon,automatic,petrol,black mercedes-benz c class. 3.0 c43 v6 amg (premium plus) g-tronic+ 4matic (s/s) 4dr,clare
+mercedes-benz e class (se),9269,23/11/2024,2015,94894,saloon,automatic,diesel,red mercedes-benz e class. 2.1 e220 bluetec se g-tronic+ euro 6 (s/s) 4dr,galway
+mercedes-benz gla class (gla200d),20207.00,25/11/2024,2018,22049,suv,manual,diesel,silver mercedes-benz gla. gla 200d se 5dr 2.1,donegal
+mercedes-benz c class (c200),22650.00,26/11/2024,2016,34362,coupe,automatic,petrol,black mercedes-benz c class. 2.0 c200 amg line (premium) g-tronic+ euro 6 (s/s) 2dr. 2 previous owners,cork
+mercedes-benz e class (e220d),22462.00,28/11/2024,2018,50255,saloon,automatic,diesel,navy mercedes-benz e class. 2.0 e220d amg line g-tronic+ euro 6 (s/s) 4dr,leitrim
+mercedes-benz glc class (glc43 v6),35358.00,28/11/2024,2019,41935,suv,automatic,petrol,blue mercedes-benz glc. 43 4matic premium 5dr 9g-tronic 3.0,dublin
+mercedes-benz m class (ml350 v6),15393,28/11/2024,2012,90971,suv,automatic,diesel,black mercedes-benz m class. 3.0 ml350 v6 bluetec amg sport g-tronic 4wd euro 6 (s/s) 5dr,sligo
+mercedes-benz c class (c250),16298.00,2024-11-29,2015,73458,saloon,automatic,diesel,blue mercedes-benz c class. 2.1 c250 bluetec amg line saloon 4dr diesel g-tronic+ euro 6 (s/s) (204 ps). 4 previous owners,dublin
+mercedes-benz gle class (amg line),56952.00,30/11/2024,2020,21436,suv,automatic,diesel,silver mercedes-benz gle-class. 2.9 gle 400 d 4matic amg line premium 5d 326 bhp,cork
+mercedes-benz c class (c200d),16060.00,2024-12-01,2016,50725,saloon,automatic,diesel,blue mercedes-benz c class. c200d sport auto 1.6 4dr,galway
+mercedes-benz s class (amg line),28162.00,02/12/2024,2014,29356,saloon,automatic,diesel,mercedes-benz s-class. 3.0 s350 bluetec amg line 4d 258 bhp only 29000 miles. full merc history,cork
+mercedes-benz c class (c63 v8 biturbo),44905.00,2024-12-03,2017,34921,convertible,automatic,petrol,grey mercedes-benz c-class. c63 s premium 2dr auto petrol cabriolet 4.0,kilkenny
+mercedes-benz e class (e220 cdi),11465.00,03/12/2024,2014,68390,saloon,automatic,diesel,silver mercedes-benz e class. 2.1 e220 cdi amg sport saloon 4dr diesel g-tronic+ euro 5 (s/s) (170 ps). 2 previous owners,laois
+mercedes-benz a class (sport),15220.00,03/12/2024,2017,37598,hatchback,automatic,diesel,mercedes-benz a-class. 1.5 a 180 d sport executive 5d 107 bhp,louth
+mercedes-benz cla class (cla220 cdi),13256.00,2024-12-03,2013,59913,saloon,auto,diesel,mercedes-benz cla class. 2.1 cla220 cdi sport coupe 7g-dct euro 6 (s/s) 4dr. 8 previous owners,dublin
+mercedes-benz a class (a180 cdi),8859.00,05/12/2024,2013,118270,hatchback,automatic,diesel,red mercedes-benz a class. 1.8 a180 cdi blueefficiency amg sport 7g-dct euro 5 (s/s) 5dr. 2 previous owners,waterford
+mercedes-benz c class (c250 cdi),8697.00,06/12/2024,2013,73754,saloon,automatic,diesel,black mercedes-benz c class. 2.1 c250 cdi amg sport g-tronic+ euro 5 (s/s) 4dr. 4 previous owners,dublin
+mercedes-benz cls (amg line),35977.00,06/12/2024,2019,24176,saloon,automatic,diesel,black mercedes-benz cls. cls 300d amg line 4dr 9g-tronic 2.0,sligo
+mercedes-benz c class (blueefficiency),9836.00,06/12/2024,2013,64410,saloon,automatic,diesel,blue mercedes-benz c class. 2.1 c220 cdi blueefficiency amg sport g-tronic+ euro 5 (s/s) 4dr. 1 previous owner,dublin
+mercedes-benz cla class (amg sport),13990.00,2024-12-06,2015,62878,saloon,manual,diesel,black mercedes-benz cla. cla200 cdi amg sport 2.1 4dr. 2 previous owners,offaly
+mercedes-benz c class (c220),13605.00,07/12/2024,2014,82066,saloon,automatic,diesel,navy mercedes-benz c class. 2.1 c220 bluetec amg line saloon 4dr diesel g-tronic+ euro 6 (s/s) (170 ps). 3 previous owners,mayo
+mercedes-benz gla class (gla200d),20284.00,07/12/2024,2018,25452,suv,manual,diesel,mercedes-benz gla. gla 200d se 5dr 2.1,roscommon
+mercedes-benz gla class (amg line),39271.00,08/12/2024,2022,483,suv,automatic,petrol,mercedes-benz gla. gla 180 amg line executive 5dr auto 1.3,laois
+mercedes-benz e class (e220),14440.00,08/12/2024,2016,59861,saloon,automatic,diesel,black mercedes-benz e class. e220 bluetec amg night edition 2.1 4dr. 2 previous owners,dublin
+mercedes-benz a class (sport),21415.00,2024-12-10,2018,33519,hatchback,automatic,petrol,blue mercedes-benz a class. a200 sport executive 5dr auto 1.3. 2 previous owners,dublin
+mercedes-benz cla class (cla220d),19389.00,10/12/2024,2016,26273,saloon,automatic,diesel,"red mercedes-benz cla class. 2.1 cla220d amg sport coupe 4dr diesel 7g-dct (s/s) (109 g/km, 175 bhp). 3 previous owners",kildare
+mercedes-benz c class (c220d),19987,12/12/2024,2017,51718,convertible,automatic,diesel,blue mercedes-benz c-class. 2.1 c 220 d amg line 2d 168 bhp,louth
+mercedes-benz e class (avantgarde),4360.00,13/12/2024,2009,140255,estate,automatic,diesel,mercedes-benz e class. 3.0 e320 cdi avantgarde g-tronic 5dr. 2 previous owners,waterford
+mercedes-benz a class (a250),21738.00,13/12/2024,2017,21593,hatchback,automatic,petrol,black mercedes-benz a-class hatch. a 250 4matic amg 2.0 5dr. 1 previous owner,dublin
+mercedes-benz glc class (amg line),41136.00,2024-12-13,2019,27807,coupe,automatic,diesel,mercedes-benz glc-class. 2.0 glc 300 d 4matic amg line premium 4d 242 bhp +nationwide delivery available+. 1 previous owner,limerick
+mercedes-benz s class (s350ld v6),33467.00,13/12/2024,2017,44543,saloon,automatic,diesel,silver mercedes-benz s class. s350d l amg line 4dr 9g-tronic [premium] 3.0,donegal
+mercedes-benz c class (c180),9135.00,14/12/2024,2013,86123,estate,automatic,petrol,black mercedes-benz c-class. 1.6 c180 blueefficiency executive se 5d 154 bhp,sligo
+mercedes-benz c class (c63 v8 biturbo),46420.00,15/12/2024,2018,19159,convertible,automatic,petrol,grey mercedes-benz c class. 4.0 c63 v8 biturbo amg (premium) cabriolet spds mct euro 6 (s/s) 2dr,meath
+mercedes-benz e class (amg sport),11019.00,15/12/2024,2013,56849,coupe,automatic,diesel,black mercedes-benz e class. 2.1 e250 cdi amg sport coupe 2dr diesel g-tronic+ euro 5 (s/s) (204 ps). 2 previous owners,wicklow
+mercedes-benz e class (sport),8921.00,15/12/2024,2010,91424,convertible,automatic,petrol,navy mercedes-benz e class. 1.8 e200 cgi blueefficiency sport cabriolet auto 2dr,cork
+mercedes-benz c class (c180k),6729.00,2024-12-15,2009,46690,saloon,automatic,petrol,navy mercedes-benz c class. 1.6 c180k blueefficiency se auto euro 4 4dr. 4 previous owners,laois
+mercedes-benz a class (a180 cdi),12238.00,16/12/2024,2015,58399,hatchback,manual,diesel,black mercedes-benz a class. a180 cdi blueefficiency amg sport 5dr 1.5,clare
+mercedes-benz glc class (glc250d),26644.00,16/12/2024,2017,68335,suv,automatic,diesel,black mercedes-benz glc-class. 2.1 glc250d amg line (premium plus) g-tronic 4matic (s/s) 5dr +pan roof+burmester+sat nav+,dublin
+mercedes-benz a class (amg line),18460.00,17/12/2024,2018,20365,hatchback,manual,diesel,"blue mercedes-benz a-class. 1.5 a 180 d amg line 5d 107 bhp 1 f' keeper, cirrus white with priv. 2 previous owners",monaghan
+mercedes-benz gla class (gla200 cdi),15870.00,18/12/2024,2015,56093,suv,automatic,diesel,red mercedes-benz gla class. 2.1 gla200 cdi sport 7g-dct 5dr. 2 previous owners,dublin
+mercedes-benz a class (se),6195.00,18/12/2024,2013,159058,hatchback,manual,diesel,mercedes-benz a class. 1.5 a180 cdi se euro 5 (s/s) 5dr,dublin
+mercedes-benz c class (amg sport edition),10643.00,18/12/2024,2015,69698,coupe,automatic,diesel,"red mercedes-benz c class. 2.1 c220 cdi amg sport edition coupe 2dr diesel 7g-tronic plus (143 g/km, 168 bhp). 3 previous owners",dublin
+mercedes-benz a class (sport),8329.00,18/12/2024,2014,91621,hatchback,manual,diesel,black mercedes-benz a class. 1.5 a180 cdi sport euro 5 (s/s) 5dr,longford
+mercedes-benz cla class (cla180),37165,2024-12-19,2022,1224,saloon,automatic,petrol,blue mercedes-benz cla class. cla 180 amg line premium 4dr tip auto 1.3. 1 previous owner,waterford
+mercedes-benz gle class (gle250d),30652.00,19/12/2024,2018,39276,suv,automatic,diesel,navy mercedes-benz gle-class. 2.1 gle 250 d 4matic amg line premium 5d 201 bhp 82 point rac inspection !!. 2 previous owners,cork
+mercedes-benz a class (a200),19117.00,20/12/2024,2018,30501,hatchback,automatic,petrol,blue mercedes-benz a class. 1.3 a200 amg line (premium) 7g-dct euro 6 (s/s) 5dr. 2 previous owners,meath
+mercedes-benz c class (c220d),17342.00,20/12/2024,2017,79654,saloon,auto,diesel,blue mercedes-benz c class. 2.1 c220d amg line (premium plus) saloon 4dr diesel g-tronic+ euro 6 (s/s) (170 ps). 1 previous owner,limerick
+mercedes-benz a class (amg line),20271.00,20/12/2024,2017,8439,hatchback,automatic,diesel,blue mercedes-benz a class. a180d amg line executive 5dr auto 1.5,mayo
+mercedes-benz cla class (cla220d),32674.00,20/12/2024,2021,24616,estate,automatic,diesel,navy mercedes-benz cla class. cla 220d amg line premium 5dr tip auto 2.0. 2 previous owners,dublin
+mercedes-benz slk (slk300 v6),8905.00,21/12/2024,2010,94917,convertible,automatic,petrol,red mercedes-benz slk. 3.0 slk300 2d 231 bhp drives and looks fantastic,dublin
+mercedes-benz e class (e220 cdi),13337.00,22/12/2024,2014,69038,estate,automatic,diesel,black mercedes-benz e class. 2.1 e220 cdi se g-tronic+ euro 5 (s/s) 5dr. 1 previous owner,sligo
